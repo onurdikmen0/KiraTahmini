@@ -1,0 +1,740 @@
+location,information,sales_price
+Gölcük - Değirmendere Merkez Mahallesi,Daire | 3+1 | 5. Kat | 120 m²,23.000 TL
+Darıca - Nenehatun Mahallesi,Daire | 4+1 | 3. Kat | 180 m²,30.000 TL
+Başiskele - Barbaros Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,20.000 TL
+Başiskele - Döngel Mahallesi,Daire | 3+1 | 2. Kat | 115 m²,35.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,35.000 TL
+Gebze - Barış Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,25.000 TL
+Gebze - Barış Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 80 m²,23.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 3+1 | Yüksek giriş | 140 m²,22.000 TL
+Gebze - Tatlıkuyu Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,22.000 TL
+Darıca - Piri Reis Mahallesi,Daire | 3+2 | 3. Kat | 220 m²,29.000 TL
+Başiskele - Aydınkent Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,23.000 TL
+Gebze - Beylikbağı Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,18.000 TL
+İzmit - Erenler Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,15.500 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,20.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 3+1 | 4. Kat | 154 m²,35.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 3+1 | Bahçe katı | 180 m²,44.000 TL
+Gebze - Arapçeşme Mahallesi,Daire | 2.5+1 | 5. Kat | 150 m²,25.000 TL
+Kartepe - Emekevler Mahallesi,Daire | 1+1 | 2. Kat | 105 m²,25.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,35.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+0 | Çatı katı | 110 m²,23.000 TL
+Gebze - Köşklü Çeşme Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,24.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 100 m²,16.500 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,18.500 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 1+1 | 3. Kat | 59 m²,16.500 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 3+1 | 2. Kat | 132 m²,29.000 TL
+Darıca - Kazım Karabekir Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,23.000 TL
+Darıca - Emek Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,24.000 TL
+Gölcük - Çiftlik Mahallesi,Daire | 2+1 | 1. Kat | 115 m²,21.000 TL
+Derince - Sırrıpaşa Mahallesi,Daire | 2+1 | 1. Kat | 125 m²,19.000 TL
+Körfez - Yeniyalı Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,25.500 TL
+Gölcük - Yüzbaşılar Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,21.000 TL
+Gölcük - Şehitler Mahallesi,Daire | 3+1 | 2. Kat | 90 m²,14.500 TL
+Gölcük - Körfez Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,16.000 TL
+Gölcük - Cumhuriyet Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,35.000 TL
+Gölcük - Şehitler Mahallesi,Daire | 3+1 | Yüksek giriş | 85 m²,17.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,14.000 TL
+Kartepe - Emekevler Mahallesi,Daire | 1+1 | 2. Kat | 90 m²,25.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,30.000 TL
+Kartepe - Sarımeşe Mahallesi,Daire | 1+1 | 2. Kat | 87 m²,18.500 TL
+Kartepe - Derbent Mahallesi,Daire | 3+1 | 2. Kat | 175 m²,30.000 TL
+Kartepe - Acısu Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,18.000 TL
+Kartepe - Derbent Mahallesi,Daire | 3+1 | 3. Kat | 165 m²,25.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,16.000 TL
+Başiskele - Fatih Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,32.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,17.000 TL
+Başiskele - Paşadağ Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,15.000 TL
+Kartepe - Emekevler Mahallesi,Daire | 2+1 | 1. Kat | 160 m²,37.500 TL
+Kartepe - Uzunçiftlik Mahallesi,Daire | 1+1 | 1. Kat | 70 m²,16.000 TL
+Kartepe - Sarımeşe Mahallesi,Daire | 3.5+1 | 1. Kat | 164 m²,35.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 3+1 | Yüksek giriş | 165 m²,26.500 TL
+Kartepe - Ataevler Mahallesi,Daire | 2+1 | Çatı katı | 110 m²,20.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,30.000 TL
+Çayırova - İnönü Mahallesi,Daire | 4+2 | 4. Kat | 185 m²,27.000 TL
+Çayırova - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,25.000 TL
+İzmit - Kadıköy Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,31.000 TL
+Darıca - Kazım Karabekir Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,23.000 TL
+Darıca - Fevzi Çakmak Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,18.000 TL
+Darıca - Piri Reis Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,23.000 TL
+Gebze - Barış Mahallesi,Daire | 3+1 | 8. Kat | 120 m²,26.000 TL
+İzmit - Körfez Mahallesi,Daire | 3+1 | Yüksek giriş | 125 m²,27.000 TL
+İzmit - Kadıköy Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,21.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | 3. Kat | 88 m²,24.000 TL
+İzmit - Erenler Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,18.000 TL
+İzmit - Yenişehir Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,27.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,25.000 TL
+Gebze - Sultan Orhan Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,26.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,37.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,23.750 TL
+İzmit - 28 Haziran Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,23.000 TL
+İzmit - Hacıhızır Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,17.000 TL
+İzmit - Kabaoğlu Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,23.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 2+1 | 6. Kat | 115 m²,22.500 TL
+Körfez - Fatih Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,25.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | 3. Kat | 165 m²,30.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 9. Kat | 75 m²,30.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 1+1 | Bahçe katı | 75 m²,22.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,40.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | Bahçe katı | 105 m²,35.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | Yüksek giriş | 105 m²,32.500 TL
+Çayırova - Akse Mahallesi,Daire | 2+1 | 8. Kat | 90 m²,30.000 TL
+Darıca - Sırasöğütler Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 65 m²,29.000 TL
+İzmit - Yenişehir Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,20.000 TL
+İzmit - Ayazma Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,20.000 TL
+Başiskele - Mehmetağa Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,22.500 TL
+Başiskele - Paşadağ Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,25.000 TL
+Başiskele - Fatih Mahallesi,Daire | 2+1 | 2. Kat | 102 m²,30.000 TL
+Kartepe - Arslanbey Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,19.000 TL
+Başiskele - Fatih Mahallesi,Daire | 3+1 | Bahçe katı | 126 m²,32.000 TL
+Gebze - Mustafapaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,18.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,25.000 TL
+Çayırova - Emek Mahallesi,Daire | 4+1 | 4. Kat | 205 m²,35.000 TL
+Gebze - Yavuz Selim Mahallesi,Daire | 4+1 | Müstakil | 140 m²,17.000 TL
+Çayırova - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,20.000 TL
+Gebze - Yenikent Mahallesi,Daire | 3+1 | 3. Kat | 116 m²,28.000 TL
+Gebze - Gaziler Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,24.500 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 2+1 | 5. Kat | 105 m²,36.000 TL
+Gebze - Gaziler Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 70 m²,22.000 TL
+İzmit - Körfez Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,18.500 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,32.500 TL
+Başiskele - Yaylacık Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 70 m²,15.000 TL
+Derince - Fatih Sultan Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,15.000 TL
+İzmit - Sekbanlı Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,18.250 TL
+İzmit - Kadıköy Mahallesi,Daire | 2+1 | 3. Kat | 135 m²,25.000 TL
+İzmit - Serdar Mahallesi,Daire | 2+1 | 5. Kat | 120 m²,21.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,22.000 TL
+Gebze - Kirazpınar Mahallesi,Daire | 2+1 | 8. Kat | 112 m²,34.000 TL
+Kartepe - Dumlupınar Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,16.500 TL
+İzmit - Malta Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,16.000 TL
+İzmit - Gündoğdu Mahallesi,Daire | 3+1 | 3. Kat | 145 m²,27.000 TL
+İzmit - Cedit Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,18.500 TL
+Körfez - Güney Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,25.000 TL
+Körfez - Güney Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 120 m²,20.000 TL
+Körfez - Fatih Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 64 m²,15.500 TL
+Körfez - Yavuz Sultan Selim Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,21.000 TL
+Derince - Sırrıpaşa Mahallesi,Daire | 3+1 | Bahçe katı | 135 m²,31.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,25.000 TL
+İzmit - Topçular Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,18.000 TL
+Kartepe - İbrikdere Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+İzmit - Topçular Mahallesi,Daire | 1+1 | Yüksek giriş | 70 m²,17.500 TL
+Körfez - İlimtepe Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,20.000 TL
+İzmit - Tepeköy Mahallesi,Daire | 2+1 | 2. Kat | 77 m²,15.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,20.000 TL
+Darıca - Abdi İpekçi Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,21.000 TL
+Darıca - Nenehatun Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,22.000 TL
+İzmit - Ayazma Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,19.000 TL
+Başiskele - Mahmutpaşa Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,23.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 7. Kat | 120 m²,38.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 4+1 | 3. Kat | 160 m²,24.000 TL
+Gebze - Hacıhalil Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,28.250 TL
+Çayırova - Özgürlük Mahallesi,Daire | 3+1 | 4. Kat | 200 m²,26.000 TL
+Gebze - Kirazpınar Mahallesi,Daire | 2+1 | 9. Kat | 130 m²,38.000 TL
+Gebze - Yenikent Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,30.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,27.500 TL
+Gölcük - Topçular Mahallesi,Daire | 3+1 | Yüksek giriş | 130 m²,28.000 TL
+Darıca - Nenehatun Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,16.500 TL
+Başiskele - Yeşilkent Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 110 m²,20.000 TL
+Derince - Yenikent Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,18.000 TL
+Başiskele - Yeşilkent Mahallesi,Daire | 5+2 | Villa tipi | 300 m²,65.000 TL
+İzmit - Yenişehir Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,25.000 TL
+Başiskele - Havuzlubahçe Mahallesi,Daire | 2+1 | 4. Kat | 85 m²,16.500 TL
+İzmit - Malta Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,17.000 TL
+Başiskele - Aydınkent Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 190 m²,30.000 TL
+Darıca - Piri Reis Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,21.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,28.500 TL
+Başiskele - Körfez Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,18.500 TL
+İzmit - Kadıköy Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,22.000 TL
+Gölcük - Yukarı Mahallesi,Daire | 3+1 | Çatı Dubleks | 165 m²,30.000 TL
+Derince - Sırrıpaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,19.500 TL
+Başiskele - Fatih Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,28.000 TL
+İzmit - Gündoğdu Mahallesi,Daire | 1+1 | Bahçe katı | 90 m²,17.000 TL
+Darıca - Osman Gazi Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,27.000 TL
+Gebze - Sultan Orhan Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,21.000 TL
+Gölcük - Yüzbaşılar Mahallesi,Daire | Stüdyo | Düz Giriş (Zemin) | 30 m²,12.500 TL
+Derince - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,20.000 TL
+Derince - Yenikent Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,22.000 TL
+Körfez - Hacı Osman Mahallesi,Daire | 4+1 | 3. Kat | 320 m²,45.000 TL
+Gölcük - Değirmendere Merkez Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,24.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,20.000 TL
+Dilovası - Diliskelesi Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Gölcük - Değirmendere Yalı Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,20.000 TL
+Başiskele - Aydınkent Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,23.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 120 m²,20.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 1+1 | Yüksek giriş | 80 m²,23.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,26.000 TL
+Kartepe - Ertuğrul Gazi Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 91 m²,25.000 TL
+İzmit - Akarca Mahallesi,Daire | 3+1 | 2. Kat | 105 m²,20.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,30.000 TL
+Derince - Çınarlı Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,20.000 TL
+Derince - Yenikent Mahallesi,Daire | 2+1 | Bahçe katı | 130 m²,35.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,25.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,35.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 3+1 | 3. Kat | 154 m²,40.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,18.000 TL
+Gölcük - Atatürk Mahallesi,Daire | 3+1 | Bahçe katı | 200 m²,36.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 5. Kat | 85 m²,15.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 3+1 | 4. Kat | 145 m²,14.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 4. Kat | 86 m²,15.000 TL
+Gebze - Kirazpınar Mahallesi,Daire | 3+1 | 8. Kat | 125 m²,23.000 TL
+Çayırova - Emek Mahallesi,Daire | 2+1 | 8. Kat | 115 m²,32.000 TL
+Gölcük - Piyalepaşa Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,20.500 TL
+Gölcük - İpek Yolu Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,20.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 150 m²,32.000 TL
+Başiskele - Fatih Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,29.750 TL
+Gebze - Yenikent Mahallesi,Daire | 1+1 | 5. Kat | 70 m²,23.000 TL
+Darıca - Emek Mahallesi,Daire | 2+1 | Bahçe katı | 80 m²,21.000 TL
+Darıca - Emek Mahallesi,Daire | 2+1 | Bahçe katı | 80 m²,21.000 TL
+Çayırova - Atatürk Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,31.000 TL
+Darıca - Emek Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,24.500 TL
+Darıca - Piri Reis Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,35.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,33.000 TL
+Darıca - Piri Reis Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,22.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,30.000 TL
+Darıca - Kazım Karabekir Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,19.500 TL
+Darıca - Yeni Mahallesi,Daire | 4+1 | 3. Kat | 170 m²,25.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 4+1 | 2. Kat | 220 m²,58.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,35.000 TL
+Darıca - Piri Reis Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,30.000 TL
+Darıca - Sırasöğütler Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,26.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,27.000 TL
+Gölcük - Şehitler Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,25.000 TL
+Körfez - Çamlıtepe Mahallesi,Daire | 2+1 | 4. Kat | 130 m²,15.500 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,19.000 TL
+Kartepe - Ertuğrul Gazi Mahallesi,Daire | 3+1 | 3. Kat | 175 m²,31.000 TL
+İzmit - Kadıköy Mahallesi,Daire | 3+1 | 4. Kat | 110 m²,24.000 TL
+Gölcük - İhsaniye Merkez Mahallesi,Daire | 4+1 | 2. Kat | 175 m²,29.500 TL
+Gebze - Yenikent Mahallesi,Daire | 4+1 | 6. Kat | 160 m²,35.000 TL
+Gebze - Yenikent Mahallesi,Daire | 1+1 | 5. Kat | 85 m²,20.000 TL
+İzmit - Tavşantepe Mahallesi,Daire | 2.5+1 | Düz Giriş (Zemin) | 135 m²,17.500 TL
+İzmit - Gündoğdu Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,15.000 TL
+Çayırova - Emek Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,20.500 TL
+Gölcük - Atatürk Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,20.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,23.000 TL25.000 TL
+Darıca - Kazım Karabekir Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,25.500 TL
+Gölcük - Şehitler Mahallesi,Daire | 3+1 | 1. Kat | 175 m²,30.750 TL
+İzmit - Erenler Mahallesi,Daire | 3+1 | 9. Kat | 112 m²,20.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 4. Kat | 96 m²,15.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | Çatı katı | 100 m²,25.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 2+1 | 2. Kat | 112 m²,22.000 TL
+Gölcük - Karaköprü Mahallesi,Daire | 1+1 | 3. Kat | 62 m²,21.000 TL
+Gölcük - Hisareyn Merkez Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,23.000 TL
+İzmit - Malta Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,18.000 TL
+Çayırova - Şekerpınar Mahallesi,Daire | Stüdyo | 3. Kat | 50 m²,9.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,25.000 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,24.500 TL
+Gölcük - Yüzbaşılar Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,30.000 TL
+Gölcük - Şirinköy Mahallesi,Daire | 2+1 | Yüksek giriş | 87 m²,22.000 TL
+Gölcük - Değirmendere Yalı Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,25.500 TL
+Darıca - Yeni Mahallesi,Daire | 3+1 | Çatı katı | 160 m²,50.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 3+1 | 4. Kat | 100 m²,25.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,18.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 4+1 | 3. Kat | 155 m²,43.000 TL
+Gebze - Yenikent Mahallesi,Daire | 6+2 | 6. Kat | 260 m²,36.000 TL
+Çayırova - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,20.000 TL
+Gebze - İstasyon Mahallesi,Daire | 2+1 | Bodrum Kat | 85 m²,13.000 TL
+Derince - Çenedağ Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,15.000 TL
+Gölcük - Merkez Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,20.500 TL
+Gölcük - Saraylı Mahallesi,Daire | 2+1 | 1. Kat | 82 m²,18.000 TL
+Gölcük - Merkez Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,16.900 TL
+Darıca - Cami Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,29.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | 3. Kat | 102 m²,40.000 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 4+1 | 4. Kat | 160 m²,28.000 TL
+İzmit - Kozluk Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 1+1 | Yüksek giriş | 110 m²,25.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,25.000 TL
+İzmit - Kozluk Mahallesi,Daire | 3+1 | 6. Kat | 130 m²,23.500 TL
+İzmit - Serdar Mahallesi,Daire | 2+1 | 7. Kat | 90 m²,20.000 TL
+Kartepe - İstasyon Mahallesi,Daire | 2+1 | 3. Kat | 135 m²,22.500 TL
+Gebze - Barış Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 91 m²,25.000 TL
+Körfez - Atalar Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,25.000 TL
+Gebze - Köşklü Çeşme Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,16.000 TL18.000 TL
+Gölcük - Yazlık Yeni Mahallesi,Daire | 4+1 | 4. Kat | 150 m²,30.000 TL
+İzmit - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 113 m²,24.000 TL
+Gebze - Köşklü Çeşme Mahallesi,Daire | 2+1 | Bahçe katı | 65 m²,18.500 TL
+Gölcük - Donanma Mahallesi,Daire | 3+1 | Villa tipi | 130 m²,40.000 TL44.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 2+1 | Çatı katı | 110 m²,22.000 TL
+Karamürsel - Tepeköy Mahallesi,Daire | 1+1 | Çatı katı | 65 m²,19.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,19.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 2+1 | Çatı katı | 95 m²,22.000 TL
+Karamürsel - Ereğli Mahallesi,Daire | 4+2 | Çatı katı | 160 m²,22.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,25.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,18.500 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,18.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | 2. Kat | 100 m²,17.000 TL
+Çayırova - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 86 m²,22.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 120 m²,26.000 TL
+Gölcük - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,17.500 TL
+İzmit - Körfez Mahallesi,Daire | 3+1 | 6. Kat | 220 m²,25.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 4+1 | 3. Kat | 180 m²,32.500 TL
+İzmit - Yenidoğan Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,25.000 TL27.000 TL
+İzmit - Orhan Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,15.000 TL
+Gebze - Gaziler Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL22.000 TL
+Çayırova - Akse Mahallesi,Daire | 2+1 | 3. Kat | 128 m²,40.000 TL
+Gebze - Ulus Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 70 m²,13.500 TL
+Derince - Yenikent Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,25.000 TL
+Karamürsel - Ereğli Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,21.000 TL
+Karamürsel - Ereğli Mahallesi,Daire | 3+1 | Yüksek giriş | 145 m²,20.000 TL
+Çayırova - Emek Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,30.000 TL
+Gebze - Cumhuriyet Mahallesi,Daire | 5+1 | 3. Kat | 175 m²,22.000 TL
+Çayırova - Atatürk Mahallesi,Daire | 2+1 | 5. Kat | 90 m²,20.000 TL
+Çayırova - Akse Mahallesi,Daire | 3+1 | 3. Kat | 105 m²,28.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 8. Kat | 125 m²,32.000 TL
+Kartepe - Ataşehir Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,20.000 TL
+İzmit - Şirintepe Mahallesi,Daire | 2+1 | Bahçe katı | 120 m²,16.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,22.000 TL
+Başiskele - Döngel Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,36.500 TL
+Çayırova - Atatürk Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,26.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,40.000 TL
+Derince - Dumlupınar Mahallesi,Daire | 2+1 | 2. Kat | 150 m²,30.000 TL
+İzmit - Kadıköy Mahallesi,Daire | 2+1 | 5. Kat | 105 m²,22.000 TL
+İzmit - Yenişehir Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 65 m²,16.500 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,25.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,15.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,20.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,17.000 TL
+İzmit - Orhan Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,25.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,30.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 2+1 | 7. Kat | 90 m²,25.000 TL
+Başiskele - Fatih Mahallesi,Daire | 3+1 | Bahçe katı | 140 m²,29.500 TL
+Gölcük - Atatürk Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,31.000 TL
+İzmit - Çukurbağ Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,30.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 2+1 | Kot 3 (-3). Kat | 85 m²,16.500 TL
+Başiskele - Döngel Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,23.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,23.000 TL
+Başiskele - Havuzlubahçe Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,17.500 TL
+İzmit - Yenişehir Mahallesi,Daire | 3+1 | 3. Kat | 110 m²,20.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,22.000 TL
+Derince - Çenedağ Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,16.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,27.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,30.000 TL
+Körfez - Güney Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 75 m²,14.500 TL
+Darıca - Osman Gazi Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,24.500 TL
+Çayırova - Emek Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 120 m²,17.000 TL
+Gölcük - İhsaniye Merkez Mahallesi,Daire | 3+1 | 3. Kat | 170 m²,34.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 2+1 | 5. Kat | 120 m²,16.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | 1. Kat | 145 m²,36.000 TL
+Başiskele - Körfez Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,18.500 TL
+İzmit - Gündoğdu Mahallesi,Daire | 1+1 | 2. Kat | 90 m²,16.500 TL
+Başiskele - Fatih Mahallesi,Daire | 2+1 | Kot 2 (-2). Kat | 130 m²,18.500 TL
+İzmit - Tepeköy Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,17.000 TL
+İzmit - Kozluk Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,16.000 TL
+İzmit - Erenler Mahallesi,Daire | 3+1 | 13. Kat | 115 m²,24.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,23.000 TL
+Gebze - Mimar Sinan Mahallesi,Daire | 3+1 | 4. Kat | 110 m²,19.500 TL
+Gebze - İstasyon Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,16.500 TL
+Gebze - İstasyon Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,24.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,25.000 TL
+Başiskele - Fatih Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,30.000 TL
+Körfez - Yavuz Sultan Selim Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,23.000 TL25.000 TL
+Kartepe - Derbent Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,18.500 TL
+Kartepe - Arslanbey Mahallesi,Daire | 3+1 | 2. Kat | 155 m²,18.000 TL
+Çayırova - Cumhuriyet Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,25.000 TL
+Gölcük - Dumlupınar Mahallesi,Daire | 2+1 | 5. Kat | 95 m²,18.500 TL
+İzmit - Körfez Mahallesi,Daire | 3+1 | 6. Kat | 130 m²,20.000 TL
+Darıca - Abdi İpekçi Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,22.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 1+1 | 2. Kat | 59 m²,17.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 1+1 | 2. Kat | 73 m²,17.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 1+1 | 3. Kat | 63 m²,17.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,25.000 TL
+İzmit - Yenişehir Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,20.000 TL
+Çayırova - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,25.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,18.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 5+2 | 5. Kat | 225 m²,37.500 TL
+Karamürsel - Ereğli Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,24.000 TL
+Körfez - Fatih Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,21.000 TL
+Gölcük - Şirinköy Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,15.000 TL
+Başiskele - Vezirçiftliği Mahallesi,Daire | 2.5+1 | 2. Kat | 100 m²,17.500 TL
+Gölcük - Yunus Emre Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,20.000 TL
+Gebze - Kirazpınar Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,20.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 2+1 | 2. Kat | 102 m²,22.500 TL
+Derince - Dumlupınar Mahallesi,Daire | 3+0 | 4. Kat | 130 m²,18.000 TL
+Başiskele - Kullar Yakacık Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,23.000 TL
+Gölcük - İpek Yolu Mahallesi,Daire | 3+1 | 2. Kat | 90 m²,20.500 TL
+İzmit - Çukurbağ Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,17.000 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 6. Kat | 120 m²,23.000 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,20.000 TL
+Derince - Dumlupınar Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 150 m²,25.000 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,20.000 TL
+Çayırova - Atatürk Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,25.000 TL
+Gebze - Yavuz Selim Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,24.000 TL
+İzmit - Alikahya Cumhuriyet Mahallesi,Daire | 3+1 | 5. Kat | 125 m²,28.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,25.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,25.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,24.000 TL
+Kartepe - Ertuğrul Gazi Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,25.000 TL
+İzmit - Alikahya Fatih Mahallesi,Daire | 1+1 | Yüksek giriş | 75 m²,25.000 TL
+İzmit - Alikahya Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,19.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,27.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 5+2 | Çatı Dubleks | 225 m²,27.500 TL37.500 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,18.000 TL
+Gölcük - Karaköprü Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,20.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 3+1 | 2. Kat | 175 m²,26.000 TL
+Kartepe - Arslanbey Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,19.000 TL
+Darıca - Yalı Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,25.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,26.000 TL
+Derince - Yenikent Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,19.000 TL
+Derince - Yenikent Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,25.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 2+1 | 2. Kat | 82 m²,14.500 TL
+İzmit - Tavşantepe Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,22.000 TL25.000 TL
+Körfez - Kuzey Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,20.000 TL
+Başiskele - Atakent Mahallesi,Daire | 3+1 | Bahçe katı | 140 m²,32.000 TL
+Kartepe - Emekevler Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,21.500 TL
+Kartepe - İstasyon Mahallesi,Daire | 1+1 | 2. Kat | 62 m²,22.500 TL
+Başiskele - Damlar Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 130 m²,17.500 TL
+İzmit - Hatipköy Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,22.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,17.000 TL
+Derince - Çınarlı Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,30.000 TL
+İzmit - Cedit Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,24.500 TL
+Gebze - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,25.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,20.000 TL
+Darıca - Piri Reis Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,20.000 TL
+Başiskele - Fatih Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,22.000 TL
+Gebze - Gaziler Mahallesi,Daire | 1+1 | 5. Kat | 75 m²,25.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,23.000 TL
+Körfez - Atalar Mahallesi,Daire | 4+1 | 1. Kat | 150 m²,24.000 TL
+İzmit - Çukurbağ Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,17.000 TL
+Gebze - Mustafapaşa Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,40.000 TL
+Derince - Yenikent Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,25.000 TL
+Derince - Çenedağ Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,20.000 TL
+Kandıra - Kefken Mahallesi,Daire | 2+1 | Bahçe katı | 85 m²,12.500 TL
+Karamürsel - Ereğli Mahallesi,Daire | 2+1 | 3. Kat | 96 m²,17.000 TL
+İzmit - Turgut Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,21.500 TL
+Kartepe - Dumlupınar Mahallesi,Daire | 3+1 | 2. Kat | 155 m²,45.000 TL
+Kartepe - Sarımeşe Mahallesi,Daire | 1+1 | Bahçe katı | 95 m²,23.000 TL
+Gebze - Mimar Sinan Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,20.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,28.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | Yüksek giriş | 25 m²,8.500 TL9.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 5+1 | Çatı Dubleks | 180 m²,45.000 TL
+İzmit - Ömerağa Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,25.000 TL
+Başiskele - Mahmutpaşa Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,22.500 TL
+Derince - Yenikent Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,21.000 TL
+Başiskele - Yaylacık Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 135 m²,23.500 TL
+Başiskele - Paşadağ Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,15.000 TL
+Başiskele - Fatih Mahallesi,Daire | 3+1 | 3. Kat | 175 m²,27.500 TL
+Başiskele - Paşadağ Mahallesi,Daire | 2+1 | Yüksek giriş | 115 m²,20.000 TL
+Başiskele - Fatih Mahallesi,Daire | 3+1 | Çatı katı | 150 m²,27.500 TL
+Başiskele - Seymen Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,19.000 TL
+Derince - Yavuz Sultan Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,17.000 TL
+Kartepe - Rahmiye Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,25.000 TL
+Derince - Çınarlı Mahallesi,Daire | 1+1 | 4. Kat | 62 m²,19.500 TL
+İzmit - Kuruçeşme Fatih Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,32.000 TL
+İzmit - Erenler Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,20.000 TL
+İzmit - Hatipköy Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,15.000 TL
+Kartepe - Dumlupınar Mahallesi,Daire | 3+1 | 2. Kat | 155 m²,35.000 TL
+İzmit - Gündoğdu Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 130 m²,22.000 TL
+Kartepe - Dumlupınar Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,26.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 7. Kat | 120 m²,27.000 TL
+Darıca - Osman Gazi Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 95 m²,26.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 9. Kat | 85 m²,30.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 11. Kat | 90 m²,35.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 7. Kat | 85 m²,200.000 TL
+Gebze - Mevlana Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,20.000 TL
+İzmit - Akpınar Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,15.500 TL
+Darıca - Yalı Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,16.500 TL
+İzmit - Akçakoca Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,16.000 TL
+Darıca - Sırasöğütler Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,21.000 TL
+Karamürsel - Tepeköy Mahallesi,Daire | 2+1 | 4. Kat | 75 m²,20.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,20.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,20.000 TL
+Gebze - Yenikent Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,30.000 TL
+Gebze - Yenikent Mahallesi,Daire | 1+1 | 4. Kat | 72 m²,25.000 TL
+Gebze - Gaziler Mahallesi,Daire | 3+1 | 3. Kat | 185 m²,30.000 TL
+Gebze - Mimar Sinan Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,14.250 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 3+2 | 3. Kat | 150 m²,28.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 3+1 | 5. Kat | 125 m²,30.000 TL32.000 TL
+Başiskele - Yaylacık Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,18.500 TL
+İzmit - Yenişehir Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,17.000 TL
+Gölcük - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 110 m²,15.500 TL
+Kartepe - Arslanbey Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 105 m²,18.000 TL
+İzmit - Gündoğdu Mahallesi,Daire | 1+1 | 3. Kat | 90 m²,20.000 TL
+İzmit - Çukurbağ Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,18.500 TL
+Gebze - Kirazpınar Mahallesi,Daire | 3+1 | 6. Kat | 125 m²,23.000 TL
+Gölcük - Değirmendere Merkez Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,22.000 TL
+Gölcük - Yunus Emre Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,20.500 TL
+Gölcük - Merkez Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,21.950 TL
+İzmit - Veliahmet Mahallesi,Daire | 5+2 | 4. Kat | 250 m²,30.000 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,15.000 TL20.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,35.000 TL
+Gebze - Köşklü Çeşme Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,23.000 TL
+Başiskele - Yaylacık Mahallesi,Daire | 1+1 | 2. Kat | 80 m²,19.000 TL
+Darıca - Yeni Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,23.500 TL
+Gebze - Tatlıkuyu Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,30.000 TL
+Gölcük - Donanma Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,18.500 TL
+Körfez - Çamlıtepe Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,18.500 TL
+Gölcük - Merkez Mahallesi,Daire | 4+1 | 5. Kat | 220 m²,32.000 TL
+Gölcük - Şirinköy Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,21.000 TL
+İzmit - Tepeköy Mahallesi,Daire | 2+1 | 1. Kat | 70 m²,20.000 TL
+Başiskele - Damlar Mahallesi,Daire | 2+1 | Kot 2 (-2). Kat | 130 m²,21.000 TL
+Gölcük - Yüzbaşılar Mahallesi,Daire | 3+1 | 5. Kat | 125 m²,17.000 TL
+Kartepe - Derbent Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,15.500 TL17.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,20.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 4+1 | 3. Kat | 240 m²,65.000 TL
+İzmit - Alikahya Merkez Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,20.000 TL
+İzmit - Fevzi Çakmak Mahallesi,Daire | 3+1 | 12. Kat | 110 m²,18.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,37.000 TL
+Darıca - Fevzi Çakmak Mahallesi,Daire | 2+1 | 2. Kat | 88 m²,29.000 TL
+Başiskele - Paşadağ Mahallesi,Daire | 2+1 | 3. Kat | 105 m²,17.000 TL
+Başiskele - Paşadağ Mahallesi,Daire | 4+1 | 3. Kat | 220 m²,28.500 TL
+Gölcük - Yüzbaşılar Mahallesi,Daire | 4+1 | 2. Kat | 200 m²,50.000 TL
+Başiskele - Seymen Mahallesi,Daire | 3+1 | 1. Kat | 155 m²,37.500 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 5. Kat | 120 m²,30.000 TL
+Gebze - Yenikent Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,30.000 TL
+Darıca - Cami Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,28.000 TL
+Gebze - Mustafapaşa Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,23.000 TL
+İzmit - Ayazma Mahallesi,Daire | 2+1 | 4. Kat | 85 m²,15.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 3+1 | Villa tipi | 190 m²,30.000 TL
+Çayırova - Cumhuriyet Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,25.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,25.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,15.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,15.000 TL
+Gebze - Köşklü Çeşme Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,25.000 TL
+Gebze - Tatlıkuyu Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,22.000 TL
+İzmit - Sekbanlı Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,18.000 TL
+Gölcük - Atatürk Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,25.500 TL
+Kartepe - Ataevler Mahallesi,Daire | 2+1 | Bahçe katı | 143 m²,30.000 TL
+Gölcük - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 96 m²,16.500 TL18.500 TL
+İzmit - Gündoğdu Mahallesi,Daire | 1+1 | Bahçe katı | 90 m²,17.500 TL
+İzmit - Gündoğdu Mahallesi,Daire | 1+1 | 1. Kat | 90 m²,18.500 TL
+Gölcük - Cumhuriyet Mahallesi,Daire | 3+1 | Bahçe dublex | 145 m²,29.000 TL
+Başiskele - Mahmutpaşa Mahallesi,Daire | 2+1 | 3. Kat | 91 m²,26.000 TL
+Başiskele - Barbaros Mahallesi,Daire | 3+1 | 2. Kat | 138 m²,25.000 TL
+Başiskele - Seymen Mahallesi,Daire | 3+1 | Çatı katı | 155 m²,30.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,27.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,20.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 2+1 | Çatı katı | 130 m²,25.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 4+1 | Bahçe katı | 185 m²,57.000 TL
+İzmit - Zabıtan Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,25.000 TL27.000 TL
+Başiskele - Mahmutpaşa Mahallesi,Daire | 2+1 | 1. Kat | 91 m²,25.000 TL
+İzmit - Kadıköy Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 90 m²,23.500 TL
+İzmit - Veliahmet Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,21.000 TL23.000 TL
+Gölcük - Cumhuriyet Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,18.000 TL20.000 TL
+Körfez - Hacı Osman Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,22.000 TL
+İzmit - Tavşantepe Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,14.000 TL
+Çayırova - Atatürk Mahallesi,Daire | 4+1 | 4. Kat | 160 m²,25.000 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,27.000 TL
+Çayırova - Cumhuriyet Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,19.500 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,16.500 TL
+Çayırova - İnönü Mahallesi,Daire | 2.5+1 | Yüksek giriş | 170 m²,30.000 TL
+Gebze - Yenikent Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,30.000 TL
+Karamürsel - Ereğli Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,20.000 TL
+Karamürsel - Ereğli Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,25.000 TL
+Darıca - Fevzi Çakmak Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 85 m²,19.500 TL
+Gebze - Yenikent Mahallesi,Daire | 6+2 | 6. Kat | 260 m²,42.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 3+1 | Bahçe katı | 175 m²,35.000 TL
+Kartepe - Dumlupınar Mahallesi,Daire | Stüdyo | 2. Kat | 51 m²,13.000 TL
+Darıca - Yalı Mahallesi,Daire | 1+1 | 2. Kat | 82 m²,18.000 TL
+Körfez - Şirinyalı Mahallesi,Daire | 2+1 | Bahçe katı | 70 m²,28.000 TL
+Körfez - Fatih Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,21.000 TL
+Darıca - Osman Gazi Mahallesi,Daire | 1+1 | 4. Kat | 120 m²,16.000 TL
+Derince - Yavuz Sultan Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,30.000 TL
+Gebze - Tatlıkuyu Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,25.000 TL
+Darıca - Emek Mahallesi,Daire | Stüdyo | 4. Kat | 45 m²,26.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,15.500 TL
+Gebze - Kirazpınar Mahallesi,Daire | 2+1 | 7. Kat | 100 m²,18.500 TL
+Gebze - Barış Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,17.000 TL
+Çayırova - Emek Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,22.000 TL
+Gebze - Tatlıkuyu Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,23.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,27.500 TL
+Çayırova - Atatürk Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,15.000 TL
+Çayırova - Yeni Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,25.000 TL
+Çayırova - İnönü Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,20.000 TL
+İzmit - Ömerağa Mahallesi,Daire | 6+1 | Çatı Dubleks | 365 m²,65.000 TL
+Gölcük - Donanma Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,16.999 TL
+İzmit - Turgut Mahallesi,Daire | 3+1 | 3. Kat | 170 m²,22.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,28.000 TL
+İzmit - Serdar Mahallesi,Daire | 2+1 | Çatı katı | 125 m²,25.000 TL
+İzmit - Akpınar Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 80 m²,16.000 TL
+Gölcük - Atatürk Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 75 m²,20.000 TL
+Kartepe - Uzunçiftlik Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,18.000 TL
+Derince - Mersincik Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,18.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,21.000 TL
+Darıca - Kazım Karabekir Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,25.000 TL
+İzmit - Tüysüzler Mahallesi,Daire | 1+1 | 2. Kat | 64 m²,20.000 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,20.000 TL
+Gölcük - Piyalepaşa Mahallesi,Daire | 3+1 | Çatı Dubleks | 160 m²,20.000 TL23.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,16.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 2+1 | Bahçe katı | 120 m²,23.250 TL26.000 TL
+Çayırova - Akse Mahallesi,Daire | 2+1 | Bahçe katı | 185 m²,38.500 TL
+Darıca - Emek Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,25.000 TL
+İzmit - Yeşilova Mahallesi,Daire | 2+1 | Bahçe katı | 100 m²,26.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,25.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,30.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 1+1 | Bahçe katı | 109 m²,23.500 TL
+İzmit - Tavşantepe Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,18.000 TL
+İzmit - Akarca Mahallesi,Daire | Stüdyo | 1. Kat | 45 m²,20.000 TL
+İzmit - Turgut Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,25.000 TL
+İzmit - Sekbanlı Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,15.500 TL
+Darıca - Fevzi Çakmak Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 135 m²,20.000 TL
+Darıca - Kazım Karabekir Mahallesi,Daire | 2+1 | Yüksek giriş | 105 m²,20.500 TL
+İzmit - Cedit Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,28.000 TL
+İzmit - Kozluk Mahallesi,Daire | 3+1 | 3. Kat | 170 m²,25.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,23.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 140 m²,30.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 2+1 | 6. Kat | 77 m²,20.000 TL
+İzmit - Kuruçeşme Fatih Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,16.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 2+1 | 6. Kat | 110 m²,26.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 3+1 | 6. Kat | 140 m²,32.500 TL
+Gebze - Hacıhalil Mahallesi,Daire | 2+1 | 1. Kat | 160 m²,32.000 TL
+Darıca - Fevzi Çakmak Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,22.500 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 2+1 | Çatı katı | 110 m²,35.000 TL
+İzmit - Veliahmet Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,19.500 TL
+İzmit - Kadıköy Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,25.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,17.000 TL
+Çayırova - Akse Mahallesi,Daire | 1+1 | 3. Kat | 77 m²,23.000 TL
+İzmit - Yenişehir Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,15.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,23.000 TL
+Gebze - Yenikent Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,22.000 TL
+Gebze - Barış Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,25.000 TL
+Körfez - Atalar Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,20.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 82 m²,23.000 TL
+Gebze - Adem Yavuz Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,18.000 TL
+İzmit - Alikahya Atatürk Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,20.000 TL
+Kartepe - Dumlupınar Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,17.500 TL
+İzmit - Tepeköy Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,13.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,23.000 TL
+Çayırova - Akse Mahallesi,Daire | 1+1 | 5. Kat | 68 m²,28.000 TL
+Çayırova - Akse Mahallesi,Daire | 2+1 | Yüksek giriş | 93 m²,15.000 TL
+İzmit - Kozluk Mahallesi,Daire | 2+1 | 4. Kat | 85 m²,23.500 TL
+Gebze - Kirazpınar Mahallesi,Daire | 1+1 | 7. Kat | 75 m²,23.000 TL
+İzmit - Akarca Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 125 m²,18.000 TL
+Çayırova - Atatürk Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,25.000 TL
+Gölcük - Merkez Mahallesi,Daire | 1+1 | 2. Kat | 90 m²,18.000 TL
+Darıca - Fevzi Çakmak Mahallesi,Daire | 2+1 | 2. Kat | 130 m²,24.000 TL
+İzmit - Körfez Mahallesi,Daire | 4+1 | 5. Kat | 150 m²,20.000 TL
+Gebze - Yenikent Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,25.000 TL
+Kartepe - Ertuğrul Gazi Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,21.000 TL
+Gebze - Gaziler Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,20.000 TL
+Gebze - Mimar Sinan Mahallesi,Daire | 3+1 | 4. Kat | 100 m²,20.000 TL
+Darıca - Nenehatun Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,21.000 TL
+İzmit - Gündoğdu Mahallesi,Daire | 4+1 | Çatı katı | 180 m²,27.000 TL
+Başiskele - Döngel Mahallesi,Daire | 3+1 | Çatı katı | 200 m²,36.000 TL
+Başiskele - Döngel Mahallesi,Daire | 2+1 | 2. Kat | 103 m²,27.000 TL
+Başiskele - Döngel Mahallesi,Daire | 2+1 | Çatı katı | 115 m²,31.000 TL
+Çayırova - Atatürk Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 95 m²,19.500 TL
+Derince - Çenedağ Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,24.000 TL
+Darıca - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,18.000 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,18.000 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 4. Kat | 135 m²,22.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 1.5+1 | Çatı Dubleks | 115 m²,23.000 TL25.000 TL
+İzmit - Körfez Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,16.500 TL
+Gölcük - Donanma Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,18.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 2+1 | 3. Kat | 77 m²,20.000 TL
+Kartepe - Ataevler Mahallesi,Daire | 3+1 | Bahçe katı | 140 m²,31.000 TL
+Çayırova - Özgürlük Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,15.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,28.000 TL30.000 TL
+Derince - Yavuz Sultan Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,30.000 TL
+Çayırova - Çayırova Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,20.000 TL
+İzmit - Tüysüzler Mahallesi,Daire | 3+1 | Bahçe katı | 150 m²,27.000 TL29.000 TL
+İzmit - Karabaş Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,25.000 TL
+İzmit - Zabıtan Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,25.500 TL
+Kartepe - Uzunçiftlik Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,16.000 TL
+Körfez - Güney Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,25.000 TL
+Körfez - Çamlıtepe Mahallesi,Daire | 1+1 | 2. Kat | 100 m²,14.000 TL
+İzmit - Ömerağa Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,25.000 TL
+İzmit - Şirintepe Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,14.000 TL
+İzmit - Kozluk Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,2.550.000 TL
+Gebze - Yenikent Mahallesi,Daire | 4+1 | 7. Kat | 340 m²,50.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,20.000 TL
+Körfez - Çamlıtepe Mahallesi,Daire | 2+1 | Bahçe katı | 85 m²,14.500 TL
+İzmit - Alikahya Cumhuriyet Mahallesi,Daire | 1+1 | 1. Kat | 87 m²,26.000 TL
+İzmit - Yenişehir Mahallesi,Daire | Stüdyo | Yüksek giriş | 30 m²,14.000 TL
+İzmit - Cedit Mahallesi,Daire | 1+1 | Bahçe katı | 60 m²,15.000 TL17.500 TL
+Derince - Sırrıpaşa Mahallesi,Daire | 2.5+1 | Bahçe katı | 100 m²,18.500 TL
+İzmit - Serdar Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,20.000 TL
+İzmit - Malta Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,15.000 TL
+İzmit - 28 Haziran Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,16.000 TL
+Çayırova - Akse Mahallesi,Daire | 3+1 | Kot 3 (-3). Kat | 140 m²,20.000 TL
+Karamürsel - Kayacık Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,25.000 TL
+Karamürsel - Ereğli Mahallesi,Daire | 2+1 | 3. Kat | 130 m²,28.000 TL
+İzmit - Akçakoca Mahallesi,Daire | 3+1 | 1. Kat | 170 m²,22.000 TL
+İzmit - Yenişehir Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 100 m²,17.000 TL
+Çayırova - Akse Mahallesi,Daire | 2+1 | 3. Kat | 119 m²,32.000 TL
+Kartepe - Sarımeşe Mahallesi,Daire | 1+1 | Bahçe katı | 97 m²,25.000 TL
+Çayırova - Akse Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,20.000 TL
+Gebze - Köşklü Çeşme Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,23.900 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 75 m²,23.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 3+1 | Yüksek giriş | 140 m²,32.000 TL35.000 TL
+Gölcük - Topçular Mahallesi,Daire | 3+1 | Bahçe katı | 120 m²,25.000 TL
+İzmit - M. Alipaşa Mahallesi,Daire | 1+1 | Yüksek giriş | 70 m²,15.000 TL
+Derince - Dumlupınar Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,32.000 TL
+Kartepe - Maşukiye Mahallesi,Daire | 3+1 | Bahçe katı | 210 m²,30.000 TL
+İzmit - M. Alipaşa Mahallesi,Daire | 2+1 | 6. Kat | 130 m²,15.000 TL
+Kartepe - Maşukiye Mahallesi,Daire | 3+1 | 1. Kat | 240 m²,32.000 TL
+Darıca - Sırasöğütler Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,24.000 TL
+İzmit - Ayazma Mahallesi,Daire | 3+1 | 5. Kat | 140 m²,25.000 TL
+Derince - Dumlupınar Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,30.000 TL
+Gebze - Yenikent Mahallesi,Daire | 1+1 | 2. Kat | 80 m²,25.000 TL
+Darıca - Bayramoğlu Mahallesi,Daire | 6+2 | Bahçe dublex | 350 m²,85.000 TL
+Darıca - Bağlarbaşı Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,25.000 TL
+İzmit - Yahyakaptan Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,22.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,20.000 TL
+İzmit - Cumhuriyet Mahallesi,Daire | 3+1 | Çatı katı | 145 m²,45.000 TL
+İzmit - Sanayi Mahallesi,Daire | 5+1 | 4. Kat | 160 m²,45.000 TL
+Gebze - Sultan Orhan Mahallesi,Daire | 2+1 | 2. Kat | 91 m²,10.000 TL
+Gölcük - Cumhuriyet Mahallesi,Daire | 3+2 | 2. Kat | 175 m²,33.000 TL
+İzmit - Tavşantepe Mahallesi,Daire | 1+1 | Yüksek giriş | 85 m²,15.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 3+1 | 5. Kat | 100 m²,25.000 TL
+Gölcük - Atatürk Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,25.000 TL
+Çayırova - Akse Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,30.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 90 m²,20.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,14.000 TL
+İzmit - Erenler Mahallesi,Daire | 2+1 | Yüksek giriş | 77 m²,23.000 TL25.000 TL
+Gölcük - Çiftlik Mahallesi,Daire | 1+1 | 3. Kat | 85 m²,22.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 75 m²,11.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,13.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,13.000 TL
+İzmit - Orhan Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,18.500 TL
+Körfez - Atalar Mahallesi,Daire | 2+1 | 1. Kat | 104 m²,28.500 TL
+Kartepe - Ataevler Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,15.000 TL
+Gölcük - Merkez Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,18.000 TL
+Başiskele - Barbaros Mahallesi,Daire | 3+1 | Çatı katı | 125 m²,26.500 TL
+Kartepe - Arslanbey Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,12.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,34.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,35.000 TL
+Gebze - Cumaköy Mahallesi,Daire | 4+1 | 1. Kat | 120 m²,35.000 TL
+İzmit - Kabaoğlu Mahallesi,Daire | Stüdyo | 4. Kat | 30 m²,17.500 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,22.500 TL
+Gebze - Mimar Sinan Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,20.000 TL
+İzmit - Cedit Mahallesi,Daire | 3+1 | Kot 3 (-3). Kat | 85 m²,18.000 TL
+Darıca - Abdi İpekçi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,21.000 TL
+Körfez - Atalar Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,28.500 TL
+Gölcük - Piyalepaşa Mahallesi,Daire | 3+1 | Bahçe dublex | 130 m²,20.000 TL
+Gölcük - Körfez Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,40.000 TL
+Gölcük - Yazlık Yeni Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,23.500 TL
+Gölcük - Karaköprü Mahallesi,Daire | 4+1 | 2. Kat | 240 m²,35.000 TL
+Gebze - İstasyon Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,16.000 TL
+İzmit - Erenler Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,18.000 TL
+İzmit - Hacıhızır Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,12.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,23.000 TL
+Kartepe - Sarımeşe Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 97 m²,25.000 TL
+İzmit - Çayırköy Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,14.000 TL
+İzmit - Erenler Mahallesi,Daire | 2+1 | Yüksek giriş | 77 m²,23.000 TL25.000 TL
+Gölcük - Çiftlik Mahallesi,Daire | 1+1 | 3. Kat | 85 m²,22.000 TL
+Karamürsel - 4 Temmuz Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 75 m²,11.000 TL
+Körfez - Mimar Sinan Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,13.000 TL
+Körfez - İlimtepe Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,13.000 TL
+İzmit - Orhan Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,18.500 TL
+Körfez - Atalar Mahallesi,Daire | 2+1 | 1. Kat | 104 m²,28.500 TL
+Kartepe - Ataevler Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,15.000 TL
+Gölcük - Merkez Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,18.000 TL
+Başiskele - Barbaros Mahallesi,Daire | 3+1 | Çatı katı | 125 m²,26.500 TL
+Kartepe - Arslanbey Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,12.000 TL
+Başiskele - Yeşilyurt Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,34.000 TL
+Gebze - Osman Yılmaz Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,35.000 TL
+Gebze - Cumaköy Mahallesi,Daire | 4+1 | 1. Kat | 120 m²,35.000 TL
+İzmit - Kabaoğlu Mahallesi,Daire | Stüdyo | 4. Kat | 30 m²,17.500 TL
+İzmit - Karabaş Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,22.500 TL
+Gebze - Mimar Sinan Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,20.000 TL
+İzmit - Cedit Mahallesi,Daire | 3+1 | Kot 3 (-3). Kat | 85 m²,18.000 TL
+Darıca - Abdi İpekçi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,21.000 TL
+Körfez - Atalar Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,28.500 TL
+Gölcük - Piyalepaşa Mahallesi,Daire | 3+1 | Bahçe dublex | 130 m²,20.000 TL
+Gölcük - Körfez Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,40.000 TL
+Gölcük - Yazlık Yeni Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,23.500 TL
+Gölcük - Karaköprü Mahallesi,Daire | 4+1 | 2. Kat | 240 m²,35.000 TL
+Gebze - İstasyon Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,16.000 TL
+İzmit - Erenler Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,18.000 TL
+İzmit - Hacıhızır Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,12.000 TL
+Kartepe - Fatih Sultan Mehmet Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,23.000 TL
+Kartepe - Sarımeşe Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 97 m²,25.000 TL

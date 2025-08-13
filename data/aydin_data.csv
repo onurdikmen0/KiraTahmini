@@ -1,0 +1,960 @@
+location,information,sales_price
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,10.000 TL
+Söke - Yenicamii Mahallesi,Daire | 3+1 | 3. Kat | 110 m²,18.000 TL
+Nazilli - Dumlupınar Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,14.000 TL
+Germencik - İstasyon Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,17.000 TL
+Kuşadası - Ege Mahallesi,Daire | 2.5+1 | Çatı Dubleks | 175 m²,50.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 51 m²,10.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 4. Kat | 105 m²,23.000 TL25.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 4. Kat | 75 m²,16.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,13.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 2+1 | 5. Kat | 120 m²,10.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | Yüksek giriş | 83 m²,25.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 1+1 | 2. Kat | 67 m²,20.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,13.500 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,15.000 TL
+Nazilli - Turan Mahallesi,Daire | 2+1 | 1. Kat | 135 m²,13.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,20.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,40.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,20.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,18.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,10.000 TL
+Didim - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,26.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,13.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 8. Kat | 210 m²,28.000 TL
+Didim - Akbük Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,125.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,35.000 TL
+Söke - Yenikent Mahallesi,Daire | 3+1 | 3. Kat | 250 m²,37.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,12.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,17.500 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 4. Kat | 110 m²,17.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,12.000 TL
+Nazilli - Yeni Sanayi Mahallesi,Daire | 1+1 | Yüksek giriş | 65 m²,9.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 3+1 | 5. Kat | 145 m²,30.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,30.000 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,22.000 TL
+Didim - Çamlık Mahallesi,Daire | 2+1 | 2. Kat | 75 m²,25.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,24.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,35.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,45.000 TL
+Söke - Yenicamii Mahallesi,Daire | 1+1 | 6. Kat | 55 m²,16.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,20.000 TL
+Didim - Akbük Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,30.000 TL
+Didim - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,20.000 TL
+Didim - Cumhuriyet Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,30.000 TL
+Didim - Hisar Mahallesi,Daire | Stüdyo | 1. Kat | 40 m²,18.000 TL
+Didim - Hisar Mahallesi,Daire | 2+1 | 1. Kat | 65 m²,28.000 TL
+Didim - Hisar Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,35.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,27.000 TL
+Germencik - Yedieylül Mahallesi,Daire | 3+1 | 4. Kat | 145 m²,24.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,19.000 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,20.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 130 m²,20.000 TL
+Nazilli - İstiklal Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 110 m²,15.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,20.000 TL
+Söke - Yenikent Mahallesi,Daire | 3+1 | Kot 1 (-1). Kat | 75 m²,22.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,21.000 TL
+Söke - Atatürk Mahallesi,Daire | 4.5+1 | 5. Kat | 260 m²,45.000 TL
+Söke - Fevzipaşa Mahallesi,Daire | 1+1 | Bahçe katı | 55 m²,15.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 4. Kat | 75 m²,18.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,13.000 TL
+Nazilli - Şirinevler Mahallesi,Daire | 2+1 | 6. Kat | 85 m²,12.000 TL
+Söke - Yenicamii Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,15.500 TL
+Söke - Yenicamii Mahallesi,Daire | 1+1 | 6. Kat | 65 m²,20.000 TL
+Söke - Yenikent Mahallesi,Daire | 3+1 | 3. Kat | 55 m²,14.000 TL
+Söke - Cumhuriyet Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,18.000 TL
+Söke - Yenikent Mahallesi,Daire | 3+1 | 1. Kat | 85 m²,17.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 4. Kat | 50 m²,13.000 TL14.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | Bahçe katı | 125 m²,10.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | 2. Kat | 115 m²,25.000 TL
+Söke - Yenicamii Mahallesi,Daire | 2+1 | 3. Kat | 125 m²,25.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 3. Kat | 70 m²,16.500 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,25.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,27.500 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,12.000 TL13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | Bahçe katı | 125 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,10.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 5. Kat | 75 m²,16.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | 3. Kat | 121 m²,11.000 TL
+Nazilli - Zafer Mahallesi,Daire | 4+1 | 1. Kat | 170 m²,16.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 3+1 | Çatı Dubleks | 125 m²,33.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 2+1 | 3. Kat | 220 m²,27.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,20.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 5+1 | Çatı Dubleks | 300 m²,25.000 TL
+Söke - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,16.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,20.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,15.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,15.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,15.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,10.000 TL
+Nazilli - Sümer Mahallesi,Daire | 3+0 | Çatı Dubleks | 160 m²,15.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,19.000 TL
+Söke - Konak Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,20.000 TL
+Söke - Yenikent Mahallesi,Daire | Stüdyo | 3. Kat | 50 m²,10.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+0 | 2. Kat | 45 m²,17.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,14.500 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,18.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,15.000 TL
+Kuşadası - Cumhuriyet Mahallesi,Daire | 1+1 | 4. Kat | 48 m²,15.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | 1. Kat | 145 m²,13.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,15.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 4+1 | Çatı Dubleks | 170 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,12.500 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,14.000 TL
+Efeler - Hasanefendi - Ramazan Paşa Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,13.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,25.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 1+1 | 4. Kat | 50 m²,12.500 TL
+Didim - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,25.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 3. Kat | 195 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,21.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,11.500 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,10.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,27.500 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,22.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,30.000 TL35.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,16.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,45.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,20.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 4+1 | Müstakil | 200 m²,50.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,15.000 TL
+Didim - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,27.000 TL
+Nazilli - Turan Mahallesi,Daire | 1+1 | Kot 2 (-2). Kat | 60 m²,14.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,15.000 TL
+Efeler - Meşrutiyet Mahallesi,Daire | 3+1 | 5. Kat | 110 m²,15.000 TL
+Efeler - Girne Mahallesi,Daire | 2+1 | 5. Kat | 120 m²,25.000 TL
+Efeler - Hasanefendi - Ramazan Paşa Mahallesi,Daire | 2+1 | 4. Kat | 80 m²,18.000 TL
+Didim - Efeler Mahallesi,Daire | 6+1 | Villa tipi | 150 m²,6.500 TL8.250 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,12.500 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,15.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,25.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,20.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,10.000 TL
+Didim - Akbük Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,32.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,24.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 6. Kat | 85 m²,12.000 TL13.000 TL
+Didim - Çamlık Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,30.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,16.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 8. Kat | 200 m²,21.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 2. Kat | 106 m²,40.000 TL
+Efeler - Efeler Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,30.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,18.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,11.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,60.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,18.500 TL
+Efeler - Girne Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,38.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,40.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,25.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Didim - Akbük Mahallesi,Daire | 3+1 | Bahçe katı | 120 m²,27.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | Yüksek giriş | 140 m²,20.500 TL23.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,10.000 TL
+Didim - Hisar Mahallesi,Daire | 2+1 | Yüksek giriş | 75 m²,22.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+0 | 1. Kat | 120 m²,15.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | Bahçe dublex | 140 m²,20.000 TL
+Nazilli - Yeni Mahallesi,Daire | 1+1 | Kot 4 (-4). Kat | 130 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,13.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,16.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,17.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Yüksek giriş | 65 m²,10.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,9.500 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,17.000 TL
+Efeler - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 210 m²,30.000 TL
+Efeler - Orta Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,16.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,12.000 TL
+Nazilli - Sümer Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,12.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,10.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,14.000 TL15.000 TL
+Efeler - Mimar Sinan Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,24.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,18.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,30.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 1. Kat | 145 m²,18.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,13.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,27.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 6. Kat | 150 m²,22.500 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,9.500 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,22.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,13.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 1. Kat | 56 m²,14.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 1+1 | 7. Kat | 65 m²,14.000 TL
+Nazilli - Şirinevler Mahallesi,Daire | 2+1 | 1. Kat | 130 m²,15.000 TL
+Söke - Konak Mahallesi,Daire | 3+1 | 3. Kat | 100 m²,20.000 TL
+Efeler - Meşrutiyet Mahallesi,Daire | 3+1 | 1. Kat | 155 m²,30.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,12.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 140 m²,20.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,40.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,27.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 1. Kat | 165 m²,27.000 TL
+Nazilli - Dumlupınar Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,13.500 TL
+Nazilli - Dumlupınar Mahallesi,Daire | 2+1 | 4. Kat | 75 m²,15.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,14.000 TL15.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,30.000 TL33.000 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 3+1 | 5. Kat | 145 m²,25.000 TL
+Söke - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,16.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,14.000 TL15.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,25.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 100 m²,20.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.500 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | Çatı Dubleks | 100 m²,33.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+1 | 6. Kat | 110 m²,12.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,50.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,15.000 TL
+Didim - Altınkum Mahallesi,Daire | 2+1 | Çatı Dubleks | 125 m²,20.000 TL
+Efeler - Mimar Sinan Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,13.000 TL
+Efeler - Efeler Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,22.000 TL
+Didim - Fevzipaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,60.000 TL125.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,21.000 TL
+Söke - Kemalpaşa Mahallesi,Daire | 3+1 | 2. Kat | 100 m²,27.000 TL
+Didim - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,22.000 TL
+Söke - Konak Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,15.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 3+1 | 5. Kat | 150 m²,20.500 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,12.750 TL
+Didim - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 145 m²,28.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,14.000 TL15.000 TL
+Kuşadası - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,27.000 TL
+Kuşadası - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,23.000 TL
+Söke - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 130 m²,12.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 80 m²,15.000 TL
+İncirliova - Zafer Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 55 m²,15.000 TL
+Nazilli - Sümer Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,9.500 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,18.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,14.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 2+0 | 1. Kat | 100 m²,18.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,12.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,20.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | Kot 2 (-2). Kat | 60 m²,14.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,12.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 4+1 | 2. Kat | 220 m²,24.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,12.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 1. Kat | 70 m²,19.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,18.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 3+1 | Yüksek giriş | 130 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Çatı katı | 43 m²,11.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,9.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,11.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,9.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 55 m²,9.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,10.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,12.500 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,20.500 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,13.500 TL
+Germencik - Mesudiye Mahallesi,Daire | 4+1 | 3. Kat | 168 m²,33.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | Bahçe katı | 154 m²,35.000 TL
+Didim - Altınkum Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,28.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,12.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | Yüksek giriş | 65 m²,20.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 3+1 | 1. Kat | 140 m²,50.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,11.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,35.000 TL
+Nazilli - Dallıca Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,16.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,12.500 TL13.500 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,12.000 TL15.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 150 m²,25.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,12.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,25.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 3. Kat | 115 m²,22.000 TL
+Efeler - Orta Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,22.000 TL
+Nazilli - Zafer Mahallesi,Daire | 4+1 | 3. Kat | 165 m²,20.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,15.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Didim - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,38.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,18.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,24.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,18.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,30.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,12.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | Yüksek giriş | 120 m²,12.500 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,15.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,17.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | Yüksek giriş | 120 m²,12.500 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | Yüksek giriş | 140 m²,15.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | Bahçe dublex | 110 m²,33.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,100.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,18.500 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | Bahçe katı | 120 m²,13.000 TL
+Söke - Konak Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 72 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,11.000 TL
+Efeler - Meşrutiyet Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,30.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,20.000 TL
+Didim - Akbük Mahallesi,Daire | 3+1 | Bahçe katı | 130 m²,27.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 4+1 | 1. Kat | 230 m²,30.000 TL
+Nazilli - Turan Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,14.000 TL
+Söke - Konak Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,15.000 TL17.000 TL
+Kuşadası - Güzelçamlı Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,15.000 TL
+Didim - Akbük Mahallesi,Daire | 3+1 | 2. Kat | 200 m²,32.000 TL
+Efeler - Hasanefendi - Ramazan Paşa Mahallesi,Daire | 1+1 | 1. Kat | 64 m²,24.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 4. Kat | 70 m²,22.500 TL
+Söke - Yenicamii Mahallesi,Daire | 3+1 | 3. Kat | 230 m²,30.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,30.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,27.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,28.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 5+1 | 3. Kat | 200 m²,20.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | 7. Kat | 100 m²,16.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+1 | 2. Kat | 60 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+0 | Yüksek giriş | 65 m²,8.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.500 TL
+Didim - Altınkum Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,25.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,19.500 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | Çatı katı | 130 m²,40.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,20.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 2+0 | Düz Giriş (Zemin) | 120 m²,15.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+0 | 2. Kat | 75 m²,15.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 3+1 | Müstakil | 135 m²,80.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 3+1 | Villa tipi | 130 m²,80.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | Yüksek giriş | 65 m²,25.500 TL27.500 TL
+Nazilli - Sümer Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,14.000 TL
+Efeler - Mesudiye Mahallesi,Daire | 2+0 | 3. Kat | 110 m²,2.000.000 TL
+Nazilli - İstiklal Mahallesi,Daire | 4+1 | Villa tipi | 390 m²,75.000 TL
+Didim - Çamlık Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,3.000 TL
+Didim - Akbük Mahallesi,Daire | 3+1 | 2. Kat | 200 m²,32.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 110 m²,15.000 TL
+Didim - Akbük Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,18.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,17.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,16.000 TL18.000 TL
+Kuşadası - Ege Mahallesi,Daire | 3+1 | 3. Kat | 118 m²,35.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,13.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,11.500 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 45 m²,10.250 TL
+Nazilli - Zafer Mahallesi,Daire | 4+1 | 1. Kat | 190 m²,30.000 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 4. Kat | 135 m²,12.000 TL
+Efeler - Cuma Mahallesi,Daire | 2+0 | 4. Kat | 52 m²,20.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,15.000 TL16.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,22.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 4. Kat | 165 m²,40.000 TL
+Efeler - Efeler Mahallesi,Daire | 3+1 | 2. Kat | 165 m²,30.000 TL
+Didim - Altınkum Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,25.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 95 m²,30.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 4. Kat | 60 m²,15.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,36.500 TL
+Didim - Akbük Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,125.000 TL250.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,12.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 3. Kat | 110 m²,30.000 TL
+İncirliova - Kurtuluş Mahallesi,Daire | 2+1 | Müstakil | 70 m²,12.000 TL
+Efeler - Orta Mahallesi,Daire | 2+1 | 4. Kat | 70 m²,16.000 TL18.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 58 m²,10.000 TL11.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 3+1 | 4. Kat | 132 m²,22.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,18.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,1.200.000 TL
+Söke - Yenicamii Mahallesi,Daire | 3+1 | 12. Kat | 135 m²,30.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,18.000 TL
+Kuşadası - Ege Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,39.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 4. Kat | 110 m²,20.000 TL
+Efeler - Efeler Mahallesi,Daire | 2+1 | 4. Kat | 85 m²,16.000 TL
+Efeler - Orta Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,22.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,23.500 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,20.000 TL
+Didim - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 60 m²,21.500 TL25.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | Yüksek giriş | 170 m²,25.000 TL28.000 TL
+Efeler - Orta Mahallesi,Daire | 1 Oda | 1. Kat | 30 m²,11.000 TL
+Kuşadası - Camiatik Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,20.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 4. Kat | 80 m²,55.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 3+1 | 7. Kat | 125 m²,22.000 TL
+Germencik - Camikebir Mahallesi,Daire | 4+1 | 4. Kat | 150 m²,15.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,18.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,15.000 TL
+Efeler - Efeler Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,30.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,18.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | Kot 4 (-4). Kat | 60 m²,15.000 TL
+Kuşadası - Camiatik Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,30.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 165 m²,26.000 TL
+Didim - Mavişehir Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,35.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | Yüksek giriş | 83 m²,23.000 TL
+Efeler - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 45 m²,14.000 TL15.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,12.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,27.500 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 2. Kat | 136 m²,65.000 TL75.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 5. Kat | 120 m²,14.000 TL15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,21.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Efeler - Meşrutiyet Mahallesi,Daire | 2+1 | Çatı katı | 120 m²,12.500 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,13.000 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | Çatı Dubleks | 130 m²,50.000 TL
+Efeler - Hasanefendi - Ramazan Paşa Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,12.500 TL
+Efeler - Hasanefendi - Ramazan Paşa Mahallesi,Daire | 2+0 | 3. Kat | 65 m²,20.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | Bahçe katı | 80 m²,28.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 1. Kat | 165 m²,20.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,7.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,10.000 TL13.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,29.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.500 TL
+Söke - Konak Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,20.000 TL
+Söke - Yenikent Mahallesi,Daire | 1 Oda | Kot 3 (-3). Kat | 45 m²,10.000 TL
+Efeler - Orta Mahallesi,Daire | 2+0 | 2. Kat | 60 m²,15.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,13.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | Bodrum Kat | 85 m²,12.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,10.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,7.500 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,16.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,11.000 TL
+Nazilli - Turan Mahallesi,Daire | 1 Oda | 3. Kat | 45 m²,9.000 TL
+Didim - Hisar Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,25.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 4+1 | Bahçe dublex | 170 m²,45.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 4. Kat | 50 m²,10.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | Yüksek giriş | 55 m²,19.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,23.000 TL25.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,10.000 TL
+Kuşadası - Ege Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+0 | 1. Kat | 80 m²,10.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,26.000 TL
+Didim - Çamlık Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,3.250 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,12.500 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,22.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,13.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,12.000 TL
+Kuşadası - Cumhuriyet Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,35.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 75 m²,17.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,15.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,13.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 1+1 | 2. Kat | 52 m²,17.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,25.000 TL
+Efeler - Orta Mahallesi,Daire | Stüdyo | 1. Kat | 45 m²,13.500 TL
+Nazilli - Karaçay Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,14.000 TL15.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,45.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,12.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,8.000 TL8.500 TL
+Efeler - Kurtuluş Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,13.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 2+1 | 4. Kat | 80 m²,20.000 TL25.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,25.000 TL
+Karacasu - Yaylalı Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,15.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,30.000 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,15.000 TL17.000 TL
+Nazilli - Yeni Mahallesi,Daire | 4+1 | Kot 3 (-3). Kat | 220 m²,35.000 TL
+Nazilli - Yeni Mahallesi,Daire | 4+1 | 4. Kat | 150 m²,25.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 35 m²,15.500 TL16.500 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,30.000 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,16.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,13.500 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 1+1 | Bahçe katı | 51 m²,42.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | Bahçe katı | 70 m²,40.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 3+1 | 8. Kat | 135 m²,20.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,15.000 TL
+Efeler - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,20.000 TL23.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,18.000 TL
+Efeler - Girne Mahallesi,Daire | 3+1 | 1. Kat | 140 m²,23.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,10.000 TL11.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,13.500 TL
+Efeler - Orta Mahallesi,Daire | Stüdyo | 1. Kat | 45 m²,12.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,16.000 TL18.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 1+1 | 4. Kat | 70 m²,15.000 TL
+Söke - Ağaçlı Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,15.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,26.000 TL30.000 TL
+Efeler - Zeybek Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,23.000 TL
+Nazilli - Sümer Mahallesi,Daire | 2+0 | 2. Kat | 60 m²,11.000 TL
+Nazilli - Çapahasan Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,8.500 TL10.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,15.000 TL
+Nazilli - Yeni Mahallesi,Daire | 4+1 | 3. Kat | 240 m²,40.000 TL
+Kuşadası - Alacamescit Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,25.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,22.000 TL24.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,25.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,17.500 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,28.000 TL30.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,12.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,16.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 1. Kat | 55 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,15.000 TL17.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,35.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,11.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.500 TL
+Söke - Yenikent Mahallesi,Daire | 2+0 | 1. Kat | 55 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,14.000 TL
+Efeler - Tepecik Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,15.000 TL16.000 TL
+Didim - Akbük Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,300.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | Kot 1 (-1). Kat | 65 m²,15.000 TL
+Nazilli - Şirinevler Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,11.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 5. Kat | 60 m²,10.500 TL
+Kuşadası - Davutlar Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,25.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 5+1 | Villa tipi | 150 m²,55.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,25.000 TL
+Kuşadası - Ege Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,42.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,65.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,16.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,55.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+0 | 4. Kat | 66 m²,15.500 TL18.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,25.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 120 m²,75.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,15.000 TL
+Efeler - Orta Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,15.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,15.000 TL17.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,21.000 TL
+Didim - Çamlık Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,45.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,30.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,17.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,10.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,10.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,16.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 3+1 | 4. Kat | 143 m²,35.000 TL38.500 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,13.000 TL
+Kuşadası - Alacamescit Mahallesi,Daire | 1+1 | Çatı katı | 50 m²,17.500 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 1+1 | 3. Kat | 68 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,11.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,15.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,17.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,17.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,20.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | 3. Kat | 186 m²,40.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,16.000 TL17.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,13.000 TL
+Söke - Yenikent Mahallesi,Daire | 1 Oda | 3. Kat | 55 m²,13.000 TL
+Didim - Altınkum Mahallesi,Daire | 2+1 | 2. Kat | 78 m²,35.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,65.000 TL
+Kuşadası - Ege Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,42.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,10.000 TL11.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 6. Kat | 65 m²,9.500 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 2+1 | 5. Kat | 108 m²,30.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 5. Kat | 45 m²,10.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,3.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,30.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 2. Kat | 80 m²,18.000 TL
+Efeler - Mimar Sinan Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,40.000 TL
+Efeler - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 175 m²,17.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,9.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,10.000 TL
+Efeler - Meşrutiyet Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,20.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,14.900 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,14.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,12.000 TL
+Kuşadası - Güzelçamlı Mahallesi,Daire | 3+1 | Yüksek giriş | 100 m²,15.000 TL
+Nazilli - Şirinevler Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,12.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,15.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,10.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | 3. Kat | 165 m²,15.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Kuşadası - Camikebir Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,26.000 TL
+Nazilli - Sümer Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,15.000 TL
+Kuşadası - Ege Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,35.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 1 Oda | Kot 2 (-2). Kat | 22 m²,14.500 TL
+Kuşadası - Karaova Mahallesi,Daire | 1 Oda | 2. Kat | 22 m²,17.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 4+1 | 2. Kat | 200 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 6. Kat | 130 m²,15.000 TL16.000 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,15.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 3. Kat | 80 m²,29.000 TL
+Kuşadası - Camikebir Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,65.000 TL70.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | Yüksek giriş | 140 m²,12.000 TL
+Didim - Çamlık Mahallesi,Daire | 3+1 | Çatı Dubleks | 170 m²,50.000 TL
+Didim - Çamlık Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,35.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,13.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 110 m²,10.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,25.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 4. Kat | 200 m²,32.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 1+1 | Bahçe katı | 55 m²,30.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Kuşadası - Camikebir Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,20.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,25.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,13.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,13.000 TL14.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 7. Kat | 150 m²,19.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,26.000 TL30.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 4. Kat | 145 m²,35.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,13.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 5. Kat | 50 m²,15.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,13.000 TL
+Didim - Hisar Mahallesi,Daire | 2+1 | Bahçe dublex | 75 m²,45.000 TL
+Kuşadası - Camikebir Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 100 m²,23.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | Stüdyo | 2. Kat | 50 m²,17.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | Kot 3 (-3). Kat | 150 m²,17.000 TL19.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+1 | Kot 3 (-3). Kat | 85 m²,17.500 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,9.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,13.000 TL
+Didim - Altınkum Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,25.000 TL
+Didim - Altınkum Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,35.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 8. Kat | 120 m²,12.500 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | 5. Kat | 120 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | Stüdyo | 1. Kat | 35 m²,7.500 TL
+Söke - Kemalpaşa Mahallesi,Daire | 2+1 | Çatı Dubleks | 95 m²,35.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 5+1 | 3. Kat | 360 m²,33.000 TL
+Kuşadası - Alacamescit Mahallesi,Daire | 2+1 | Bodrum Kat | 74 m²,18.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,30.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,25.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | Çatı katı | 160 m²,55.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | 1. Kat | 165 m²,20.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,10.500 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,16.000 TL20.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,10.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | Yüksek giriş | 125 m²,18.000 TL20.000 TL
+Kuşadası - Güzelçamlı Mahallesi,Daire | 3+1 | 1. Kat | 140 m²,26.000 TL
+Didim - Denizköy Mahallesi,Daire | 1 Oda | Bahçe katı | 35 m²,1.850 TL
+Kuşadası - Ege Mahallesi,Daire | 3+0 | Kot 3 (-3). Kat | 165 m²,35.000 TL40.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,18.000 TL20.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,14.000 TL15.000 TL
+Kuşadası - Ege Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,28.000 TL
+Efeler - Kurtuluş Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,15.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 7. Kat | 150 m²,12.500 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,15.000 TL
+Söke - Yenikent Mahallesi,Daire | 3+1 | 5. Kat | 140 m²,30.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 5. Kat | 90 m²,55.000 TL60.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,20.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,40.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,11.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | Bodrum Kat | 135 m²,8.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,29.000 TL
+Nazilli - Dumlupınar Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,14.000 TL15.500 TL
+Didim - Akbük Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,30.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,10.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,16.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,18.000 TL20.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,38.000 TL
+Kuşadası - Ege Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,28.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | Müstakil | 130 m²,15.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | Çatı katı | 80 m²,20.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,18.000 TL20.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,20.000 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,9.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,12.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,22.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+0 | Yüksek giriş | 90 m²,14.000 TL15.000 TL
+Kuşadası - Karaova Mahallesi,Daire | 4+1 | Bahçe dublex | 120 m²,80.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,15.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 1+1 | 4. Kat | 85 m²,20.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,20.000 TL
+Kuşadası - Ege Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,60.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,45.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | Yüksek giriş | 170 m²,21.000 TL
+Efeler - İstiklal Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,15.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 1. Kat | 70 m²,22.000 TL24.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,25.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,15.000 TL
+Germencik - Ortaklar Mahallesi,Daire | 3+1 | 4. Kat | 145 m²,25.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,11.000 TL
+Nazilli - Turan Mahallesi,Daire | 4+1 | 1. Kat | 138 m²,11.000 TL
+Nazilli - Şirinevler Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,15.000 TL
+Kuşadası - Ege Mahallesi,Daire | 2+1 | 5. Kat | 95 m²,40.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,14.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,12.000 TL
+Didim - Mersindere Mahallesi,Daire | 3+1 | 4. Kat | 200 m²,25.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,12.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 3. Kat | 45 m²,15.000 TL
+Didim - Cumhuriyet Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,20.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,12.000 TL13.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 4. Kat | 50 m²,15.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,18.000 TL
+Didim - Çamlık Mahallesi,Daire | 4+1 | Villa tipi | 150 m²,80.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,12.000 TL13.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,24.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,45.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,10.000 TL12.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 4+1 | 3. Kat | 160 m²,15.000 TL16.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,10.000 TL
+Didim - Mersindere Mahallesi,Daire | 2+1 | 2. Kat | 88 m²,27.000 TL31.500 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,18.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,50.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,10.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,300.000 TL350.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,13.500 TL
+Didim - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,15.500 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 4. Kat | 145 m²,14.000 TL15.000 TL
+Efeler - Yedi Eylül Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,24.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | Stüdyo | 1. Kat | 35 m²,8.500 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | Bahçe katı | 55 m²,17.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,7.500 TL8.500 TL
+Nazilli - Altıntaş Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,15.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,15.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+0 | Yüksek giriş | 101 m²,10.000 TL
+Söke - Yenicamii Mahallesi,Daire | 3+1 | 9. Kat | 135 m²,30.000 TL
+Söke - Yenicamii Mahallesi,Daire | 3+1 | 7. Kat | 135 m²,30.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL12.000 TL
+Nazilli - Dumlupınar Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,12.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 3. Kat | 200 m²,45.000 TL
+Efeler - Orta Mahallesi,Daire | 2+0 | 4. Kat | 60 m²,15.000 TL
+Nazilli - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,15.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,15.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,13.000 TL15.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,8.500 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | 6. Kat | 110 m²,15.000 TL
+Kuşadası - Camikebir Mahallesi,Daire | Stüdyo | 2. Kat | 45 m²,15.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,16.000 TL17.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,11.000 TL12.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 7. Kat | 137 m²,15.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,35.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,12.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 3+1 | 3. Kat | 200 m²,60.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,12.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,17.000 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,13.000 TL14.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,37.000 TL
+Efeler - Cuma Mahallesi,Daire | 1+1 | 2. Kat | 49 m²,13.000 TL15.000 TL
+Didim - Ak - Yeniköy Mahallesi,Daire | 2+1 | 5. Kat | 90 m²,19.500 TL22.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 3+1 | 5. Kat | 100 m²,19.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,15.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | Çatı katı | 50 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 5. Kat | 60 m²,12.000 TL13.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,12.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,10.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,15.000 TL
+Söke - Yenicamii Mahallesi,Daire | 3+1 | 2. Kat | 185 m²,30.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,12.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,22.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,8.000 TL
+Kuşadası - Camiatik Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,20.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,20.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,20.000 TL
+Kuşadası - Ege Mahallesi,Daire | 2+1 | 2. Kat | 75 m²,25.000 TL
+Kuşadası - Camiatik Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,20.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,25.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+0 | 3. Kat | 65 m²,13.000 TL
+Nazilli - Turan Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,10.000 TL11.000 TL
+Didim - Akbük Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,30.000 TL
+Nazilli - Şirinevler Mahallesi,Daire | 3+1 | 1. Kat | 140 m²,13.500 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,12.500 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 4. Kat | 80 m²,23.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,15.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | Yüksek giriş | 115 m²,23.000 TL25.000 TL
+Efeler - Zafer Mahallesi,Daire | 2.5+1 | Kot 1 (-1). Kat | 99 m²,12.500 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,15.000 TL
+Efeler - Kemer Mahallesi,Daire | 3+1 | Müstakil | 160 m²,32.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,12.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,30.000 TL
+Didim - Akbük Mahallesi,Daire | 2+1 | 3. Kat | 145 m²,20.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,15.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,27.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,14.000 TL15.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Efeler - Cuma Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,12.500 TL
+Nazilli - Çapahasan Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,8.000 TL9.000 TL
+Efeler - Yedi Eylül Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,19.500 TL
+Nazilli - Turan Mahallesi,Daire | 4+1 | Yüksek giriş | 158 m²,12.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,15.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 2+1 | 3. Kat | 130 m²,30.000 TL
+Germencik - Park Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,23.000 TL25.000 TL
+Nazilli - Turan Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,15.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,17.000 TL
+Kuşadası - İkiçeşmelik Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,16.000 TL
+Nazilli - Turan Mahallesi,Daire | 4+1 | 3. Kat | 160 m²,23.500 TL25.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,20.000 TL
+Didim - Efeler Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,19.000 TL22.000 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 3. Kat | 45 m²,25.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 3+1 | 2. Kat | 170 m²,18.000 TL19.500 TL
+Kuşadası - Türkmen Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,40.000 TL50.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 3+1 | 5. Kat | 140 m²,19.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 2+1 | 1. Kat | 135 m²,30.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | 2. Kat | 175 m²,25.000 TL
+Kuşadası - Ege Mahallesi,Daire | 5+1 | Çatı Dubleks | 250 m²,55.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,14.500 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | Stüdyo | 2. Kat | 25 m²,10.000 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | 4. Kat | 170 m²,35.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | Stüdyo | 3. Kat | 25 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | Yüksek giriş | 135 m²,20.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,12.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,13.000 TL15.000 TL
+Nazilli - Dumlupınar Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,11.000 TL
+Kuşadası - Değirmendere Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,15.000 TL
+Efeler - Orta Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,16.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | Stüdyo | 3. Kat | 25 m²,10.000 TL13.000 TL
+Nazilli - Kurtuluş Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 110 m²,9.600 TL13.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,30.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,15.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,15.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | Yüksek giriş | 125 m²,15.000 TL
+Kuşadası - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,20.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,12.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,35.000 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+Söke - Atatürk Mahallesi,Daire | 4+1 | Çatı Dubleks | 150 m²,22.000 TL25.000 TL
+Efeler - Girne Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,17.999 TL
+Kuşadası - Güzelçamlı Mahallesi,Daire | 3+1 | 1. Kat | 90 m²,15.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,15.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 8. Kat | 50 m²,12.000 TL14.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+0 | 3. Kat | 90 m²,9.000 TL10.000 TL
+Efeler - Girne Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,15.000 TL
+Efeler - Mimar Sinan Mahallesi,Daire | 3+1 | 6. Kat | 170 m²,25.000 TL
+Efeler - Mimar Sinan Mahallesi,Daire | 3+1 | 10. Kat | 180 m²,26.500 TL
+Nazilli - Çapahasan Mahallesi,Daire | 1+1 | 2. Kat | 80 m²,10.000 TL12.000 TL
+Söke - Yenikent Mahallesi,Daire | 1+1 | Bahçe katı | 55 m²,14.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 6. Kat | 150 m²,16.000 TL
+Efeler - Mimar Sinan Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,30.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Kot 2 (-2). Kat | 65 m²,8.000 TL
+Didim - Akbük Mahallesi,Daire | 2+1 | 2. Kat | 87 m²,27.000 TL
+Kuşadası - Davutlar Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,22.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 4+1 | 2. Kat | 200 m²,27.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,10.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 170 m²,20.000 TL22.000 TL
+Kuşadası - Ege Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,32.500 TL
+Kuşadası - Kadınlar Denizi Mahallesi,Daire | 1 Oda | 3. Kat | 30 m²,12.000 TL15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 62 m²,10.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 3+1 | Müstakil | 250 m²,5.250.000 TL
+Nazilli - Zafer Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,25.000 TL
+Söke - Ağaçlı Mahallesi,Daire | 1+1 | 5. Kat | 60 m²,15.000 TL
+Nazilli - Aydoğdu Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,18.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,2.650.000 TL3.000.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 64 m²,10.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,7.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 1+1 | 2. Kat | 80 m²,10.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | Kot 1 (-1). Kat | 55 m²,7.500 TL
+Kuşadası - Güzelçamlı Mahallesi,Daire | 3+1 | 2. Kat | 80 m²,15.000 TL
+Nazilli - Yeni Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,12.500 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,30.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+0 | 2. Kat | 65 m²,10.000 TL
+Nazilli - Karaçay Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,9.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,10.500 TL12.000 TL
+Nazilli - Sümer Mahallesi,Daire | 2+0 | 3. Kat | 55 m²,10.000 TL11.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,12.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | 2. Kat | 75 m²,10.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 5. Kat | 140 m²,12.500 TL
+Nazilli - Turan Mahallesi,Daire | 2+1 | Kot 2 (-2). Kat | 121 m²,15.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,12.000 TL
+Söke - Yenikent Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,19.000 TL
+Nazilli - Altıntaş Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,8.500 TL
+Efeler - Mesudiye Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 149 m²,8.500 TL
+Söke - Atatürk Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,22.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | Bahçe katı | 85 m²,35.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,27.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,35.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 5+2 | Çatı Dubleks | 170 m²,23.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 105 m²,20.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 4. Kat | 100 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 4. Kat | 60 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,8.250 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 3. Kat | 60 m²,20.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,18.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,20.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,18.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,18.000 TL
+Nazilli - Yeni Sanayi Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,8.500 TL
+Efeler - Yedi Eylül Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,23.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 125 m²,14.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,18.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 3. Kat | 52 m²,12.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 5. Kat | 75 m²,14.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,18.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,11.000 TL
+Efeler - Mesudiye Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 149 m²,8.500 TL
+Söke - Atatürk Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,22.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | Bahçe katı | 85 m²,35.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,27.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,35.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 5+2 | Çatı Dubleks | 170 m²,23.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 105 m²,20.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 4. Kat | 100 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 4. Kat | 60 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,8.250 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 3. Kat | 60 m²,20.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,18.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,20.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,18.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,18.000 TL
+Nazilli - Yeni Sanayi Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,8.500 TL
+Efeler - Yedi Eylül Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,23.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 125 m²,14.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,18.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 3. Kat | 52 m²,12.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 5. Kat | 75 m²,14.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,18.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,11.000 TL
+Efeler - Mesudiye Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 149 m²,8.500 TL
+Söke - Atatürk Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,22.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | Bahçe katı | 85 m²,35.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,27.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,35.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 5+2 | Çatı Dubleks | 170 m²,23.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 105 m²,20.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 4. Kat | 100 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 4. Kat | 60 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,8.250 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 3. Kat | 60 m²,20.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,18.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,20.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,18.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,18.000 TL
+Nazilli - Yeni Sanayi Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,8.500 TL
+Efeler - Yedi Eylül Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,23.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 125 m²,14.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,18.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 3. Kat | 52 m²,12.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 5. Kat | 75 m²,14.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,18.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,11.000 TL
+Efeler - Mesudiye Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 149 m²,8.500 TL
+Söke - Atatürk Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,22.000 TL
+Kuşadası - Hacıfeyzullah Mahallesi,Daire | 2+1 | Bahçe katı | 85 m²,35.000 TL
+Söke - Çeltikçi Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,27.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Didim - Altınkum Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,35.000 TL
+Nazilli - Sümer Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,25.000 TL
+Nazilli - Pınarbaşı Mahallesi,Daire | 5+2 | Çatı Dubleks | 170 m²,23.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 105 m²,20.000 TL
+Efeler - Adnan Menderes Mahallesi,Daire | 3+1 | 4. Kat | 100 m²,10.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,15.000 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 4. Kat | 60 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,8.250 TL
+Efeler - Zafer Mahallesi,Daire | 2+0 | 3. Kat | 60 m²,20.000 TL
+Nazilli - Zafer Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,18.000 TL
+Nazilli - Yeşil Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,20.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,18.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,18.000 TL
+Nazilli - Yeni Sanayi Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,8.500 TL
+Efeler - Yedi Eylül Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,23.000 TL
+Nazilli - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 125 m²,14.000 TL
+Nazilli - Yıldıztepe Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,18.000 TL
+Efeler - Güzelhisar Mahallesi,Daire | 1+1 | 3. Kat | 52 m²,12.000 TL
+Nazilli - Yeni Mahallesi,Daire | 2+1 | 5. Kat | 75 m²,14.000 TL
+İncirliova - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,18.000 TL
+Söke - Atatürk Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,23.000 TL
+Nazilli - İsabeyli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,11.000 TL
