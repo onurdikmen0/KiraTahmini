@@ -11,3 +11,8 @@ metrekare :
 
 p1 : 47 dk sürdü
 p2 : 51 dk
+p3 : 41 dk
+p4 : 34 dk
+p5 : 39 dk
+p6 : 40 dk
+---
