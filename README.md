@@ -32,3 +32,28 @@ Bu proje, gerçek verilerle makine öğrenmesi modelleri oluşturarak kira tahmi
 numpy
 pandas
 sklearn
+
+
+
+Mahalleye ait ortalama kira fiyatı → modelin yerleşim etkisini öğrenmesini sağlar.
+Oda başına alan, metrekare başına kira gibi yeni özellikler üret.
+brüt/ net oranı → eğer brüt ve net varsa
+fiyat / oda_sayisi → oda başına kira (tahmin için faydalı olabilir)
+
+mahalle_ortalama_kira
+oda_basi_alan
+metrekare_basi_kira
+burut_net_orani
+fiyat_oda_orani
+
+1. versiyon(çok kötü)
+    R² Score: 0.000 bişeyler
+    RMSE: 200000.00 bişeyer
+
+2. verisyon 
+    R² Score: 0.6042039394378662
+    RMSE: 62214.635448582354
+
+3. versiyon 
+    R² Score: 0.9976809024810791
+    RMSE: 388.3306419792288
