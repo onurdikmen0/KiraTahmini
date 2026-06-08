@@ -32,8 +32,12 @@ from sklearn.model_selection import KFold, train_test_split
 # --- Yollar (script src/ içinde olduğu için proje köküne çıkıyoruz) ---
 KOK = Path(__file__).resolve().parent.parent
 HAM_VERI = KOK / "data" / "raw" / "turkey_rent.csv"
+GEO_DOSYA = KOK / "data" / "geo" / "ilce_latlon.csv"
 MODEL_DIZIN = KOK / "models"
 MODEL_DOSYA = MODEL_DIZIN / "kira_model.joblib"
+
+# Coğrafi öznitelik tablosu tembel yüklenir (Streamlit'te her tahminde tekrar okumamak için)
+_GEO_CACHE = None
 
 # Bina yaşı aralıklarını tek sayıya indir
 YAS_MAP = {
@@ -66,17 +70,64 @@ KOLON_AD = {
     "Banyo Sayısı": "banyo_sayisi", "Eşya Durumu": "esya_durumu",
 }
 
-# Modele giren sayısal öznitelikler (target-encode kolonları sona eklenir)
+# Modele giren sayısal öznitelikler (target-encode + coğrafi kolonlar sona eklenir)
 SAYISAL_KOLONLAR = [
     "net_metrekare", "brut_metrekare", "oda", "salon", "binanin_yasi",
     "bulundugu_kat", "binanin_kat_sayisi", "banyo_sayisi", "site_icerisinde",
     "tapu_durumu", "esya_durumu", "yapi_durumu", "oda_basi_alan", "burut_net_orani",
     "il_te", "ilce_te", "mahalle_te",
+    "ilce_lat", "ilce_lon", "il_merkeze_uzaklik_km",
 ]
 # One-hot uygulanacak kategorik kolonlar
 KATEGORIK_KOLONLAR = ["isitma_tipi", "kullanim_durumu"]
 # Target encoding için konum kolonları
 KONUM_KOLONLAR = ["il", "ilce", "mahalle"]
+
+
+def _geo_yukle():
+    """İlçe lat/lon tablosunu (varsa) tembel yükler. Yoksa None döner."""
+    global _GEO_CACHE
+    if _GEO_CACHE is None and GEO_DOSYA.exists():
+        g = pd.read_csv(GEO_DOSYA)
+        il_mrkz = g.groupby("il")[["lat", "lon"]].mean().rename(
+            columns={"lat": "_il_lat", "lon": "_il_lon"})
+        _GEO_CACHE = {
+            "ilce": g.set_index(["il", "ilce"]).to_dict("index"),
+            "il": il_mrkz.to_dict("index"),
+            "global": {"lat": g["lat"].mean(), "lon": g["lon"].mean()},
+        }
+    return _GEO_CACHE
+
+
+def _cografi_ekle(df: pd.DataFrame) -> pd.DataFrame:
+    """il/ilce'ye göre ilce_lat, ilce_lon, il_merkeze_uzaklik_km kolonlarını ekler.
+
+    Fallback: ilçe yoksa il merkezi, o da yoksa global ortalama koordinat kullanılır.
+    Geo tablosu hiç yoksa kolonlar NaN bırakılır (XGBoost NaN'i tolere eder).
+    """
+    geo = _geo_yukle()
+    if geo is None:
+        df["ilce_lat"] = np.nan
+        df["ilce_lon"] = np.nan
+        df["il_merkeze_uzaklik_km"] = np.nan
+        return df
+
+    glob = geo["global"]
+
+    def cek(il, ilce):
+        rec = geo["ilce"].get((il, ilce))
+        if rec:
+            return rec["lat"], rec["lon"], rec.get("il_merkeze_uzaklik_km", 0.0)
+        ilm = geo["il"].get(il)
+        if ilm:
+            return ilm["_il_lat"], ilm["_il_lon"], 0.0
+        return glob["lat"], glob["lon"], 0.0
+
+    sonuc = [cek(il, ilce) for il, ilce in zip(df["il"], df["ilce"])]
+    df["ilce_lat"] = [s[0] for s in sonuc]
+    df["ilce_lon"] = [s[1] for s in sonuc]
+    df["il_merkeze_uzaklik_km"] = [s[2] for s in sonuc]
+    return df
 
 
 def temizle(df: pd.DataFrame) -> pd.DataFrame:
@@ -160,6 +211,9 @@ def temizle(df: pd.DataFrame) -> pd.DataFrame:
     # sızıntısız türetilmiş öznitelikler
     df["oda_basi_alan"] = np.where(df["oda"] > 0, df["net_metrekare"] / df["oda"], df["net_metrekare"])
     df["burut_net_orani"] = df["brut_metrekare"] / df["net_metrekare"]
+
+    # coğrafi öznitelikler (ilçe lat/lon + il merkezine uzaklık)
+    df = _cografi_ekle(df)
 
     return df
 

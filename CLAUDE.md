@@ -48,16 +48,20 @@ kira_tahmin_projesi/
 - `3_veri_on_isleme.ipynb` — **ana notebook** (~206 hücre). Temizlik, eksik veri,
   öznitelik mühendisliği ve XGBoost model eğitimi burada.
   Çıktı: `../data/processed/temiz_turkey_rent.csv`.
-- `4_cografi_veri_isleme.ipynb` — `osmnx`/`geopandas` ile il/ilçe/mahalle sınırlarını
-  (polygon) ve centroid lat/lon bilgisini çeker. (Şu an eksik/çalışıyor.)
+- `4_cografi_veri_isleme.ipynb` — coğrafi zenginleştirme akışını açıklar ve sonucu
+  inceler. Asıl geocoding `src/cografi_zenginlestirme.py`'de; bu notebook ilçe
+  lat/lon tablosunu yükleyip Türkiye haritası/uzaklık dağılımını gösterir.
+  (osmnx 2.x için yeniden yazıldı; eski `ox.geometries` API'si kaldırılmıştı.)
 
 ### Veri dosyaları — `data/`
 - `data/raw/kira/` — `turkiye_kira_p1..p9.csv` (güncel scraping parçaları).
 - `data/raw/turkey_rent.csv` — birleştirilmiş ham veri (~9 MB).
 - `data/processed/temiz_turkey_rent.csv` — temizlenmiş + öznitelik üretilmiş veri
   (**~150 MB**; one-hot encoding sonrası genişler — `.gitignore`'da yorum satırı olarak hazır).
-- `data/geo/istanbul_mahalleler.csv` — İl/İlçe/Mahalle + Polygon + Centroid.
-- `data/geo/istanbul_mahalleler_latlon.csv` — İl/İlçe/Mahalle + Lat/Lon.
+- `data/geo/ilce_latlon.csv` — **462 ilçenin lat/lon'u** + il merkezi + il merkezine
+  uzaklık (km). `cografi_zenginlestirme.py` üretir, model bunu kullanır.
+- `data/geo/istanbul_mahalleler.csv` — İl/İlçe/Mahalle + Polygon + Centroid (yalnız İstanbul).
+- `data/geo/istanbul_mahalleler_latlon.csv` — İl/İlçe/Mahalle + Lat/Lon (yalnız İstanbul).
 
 ### Arşiv — `other/` (kullanılmıyor, sadece referans için saklanıyor)
 Ana klasörü temiz tutmak için güncel iş akışında kullanılmayan her şey `other/`
@@ -68,7 +72,10 @@ altına taşındı. **Buradaki dosyalara iş akışında bağımlılık kurma.**
 
 ### Kod — `src/`
 - `src/model_egitimi.py` — **ana eğitim scripti** (sızıntısız). `temizle()` ve
-  `hazirla_X()` fonksiyonları Streamlit tarafından da yeniden kullanılır.
+  `hazirla_X()` fonksiyonları Streamlit tarafından da yeniden kullanılır. `temizle()`
+  coğrafi öznitelikleri `data/geo/ilce_latlon.csv`'den otomatik merge eder.
+- `src/cografi_zenginlestirme.py` — benzersiz (il, ilçe) çiftlerini osmnx/Nominatim
+  ile geocode eder; resumable + kademeli kayıt. Çıktı: `data/geo/ilce_latlon.csv`.
 - `src/veri_bilimci_el_cantasi.py` — yeniden kullanılan yardımcı fonksiyonlar
   (Türkçe karakter dosya adı sorun çıkardığı için ASCII'ye çevrildi):
   - `kolon_duzenleme(df)` — kolon adlarını küçük harf, `_` ve Türkçe→ASCII (`unidecode`).
@@ -100,6 +107,8 @@ fonksiyonlarını yeniden kullanır.
 - Model: **XGBoost** (`xgb.XGBRegressor`), hedef **log dönüşümlü** (`log1p`/`expm1`).
 - Konum (il/ilçe/mahalle) one-hot yerine **hiyerarşik + smoothing'li target encoding**
   ile kodlanır (mahalle→ilçe→il→global fallback), **yalnız train fold'undan** öğrenilir.
+- **Coğrafi öznitelikler**: `ilce_lat`, `ilce_lon`, `il_merkeze_uzaklik_km`
+  (`data/geo/ilce_latlon.csv`'den). Test R²'yi ~0.70'ten ~0.71'e, CV R²'yi ~0.72'ye taşıdı.
 - Metrikler: hold-out test R², train R² (overfit kontrolü) ve **fold içinde encoder'ı
   yeniden fit eden 5-fold CV**.
 
@@ -121,14 +130,14 @@ Eski notebook R² ≈ 0.99 veriyordu çünkü hedeften türetilen kolonlar eğit
 ## Yol Haritası / Yapılacaklar
 
 Tamamlananlar ✅
-- ~~Veri sızıntısını gidererek modeli gerçekçi hale getir~~ (Test R² ≈ 0.70).
+- ~~Veri sızıntısını gidererek modeli gerçekçi hale getir~~ (Test R² ≈ 0.71).
 - ~~Streamlit ile web arayüzü oluştur~~ (`app.py`).
+- ~~Coğrafi öznitelik ekle (ilçe lat/lon + il merkezine uzaklık)~~ (CV R² ≈ 0.72).
 
 Kalanlar
 - Emlakjet'te Daire dışındaki konut kategorileri için de veri çek.
 - Aynı projeyi **satılık** evler için tekrarla.
-- `4_cografi_veri_isleme.ipynb`'i tamamlayıp coğrafi öznitelik (lat/lon, merkeze
-  uzaklık vb.) ekleyerek modeli güçlendir.
+- Mahalle düzeyi geocoding ve POI temelli öznitelikler (merkeze/sahile uzaklık).
 
 ## Çalışma Notları
 
