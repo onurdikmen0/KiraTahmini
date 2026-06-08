@@ -1,0 +1,921 @@
+location,information,sales_price
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 5. Kat | 185 m²,8.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 2+1 | 3. Kat | 140 m²,20.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 8. Kat | 150 m²,25.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2.5+1 | 1. Kat | 130 m²,32.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | Stüdyo | 2. Kat | 65 m²,22.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 10. Kat | 65 m²,18.500 TL
+Erdemli - Tömük Mahallesi,Daire | 2.5+1 | 1. Kat | 125 m²,5.500 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,13.500 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 11. Kat | 220 m²,35.000 TL
+Tarsus - Kırklarsırtı Mahallesi,Daire | 2+1 | Müstakil | 100 m²,11.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 9. Kat | 200 m²,25.000 TL
+Mezitli - İstiklal Mahallesi,Daire | 3+1 | 6. Kat | 165 m²,17.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 7. Kat | 185 m²,25.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Yüksek giriş | 70 m²,16.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,21.500 TL
+Yenişehir - Deniz Mahallesi,Daire | 4+1 | 10. Kat | 200 m²,80.000 TL
+Mezitli - Esenbağlar Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,18.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,33.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 1+1 | 10. Kat | 75 m²,22.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 4+1 | Düz Giriş (Zemin) | 180 m²,40.000 TL
+Mezitli - Hürriyet Mahallesi,Daire | 1+1 | 8. Kat | 82 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,15.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 9. Kat | 65 m²,17.500 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 5. Kat | 60 m²,13.500 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,20.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | Bahçe dublex | 200 m²,395.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 1+1 | 5. Kat | 60 m²,17.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 1+1 | 5. Kat | 60 m²,17.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 1. Kat | 143 m²,25.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,14.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 5+1 | 10. Kat | 210 m²,35.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 5. Kat | 220 m²,42.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 8. Kat | 190 m²,37.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 11. Kat | 70 m²,14.500 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 9. Kat | 185 m²,400.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,25.000 TL
+Toroslar - Arpaçsakarlar Mahallesi,Daire | 4+1 | 1. Kat | 150 m²,23.000 TL
+Tarsus - Bağlar Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,185.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 3+1 | 10. Kat | 160 m²,25.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 2+1 | 4. Kat | 113 m²,25.000 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,25.000 TL
+Yenişehir - Dumlupınar Mahallesi,Daire | 3+1 | 1. Kat | 125 m²,18.000 TL
+Mezitli - Cumhuriyet Mahallesi,Daire | 1+1 | 5. Kat | 73 m²,16.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 3+1 | 10. Kat | 175 m²,35.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 6. Kat | 170 m²,25.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,16.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,11.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,25.000 TL
+Yenişehir - Fuatmorel Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,36.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,25.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 2+1 | 6. Kat | 80 m²,28.000 TL
+Yenişehir - Dumlupınar Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,23.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 3+1 | 1. Kat | 170 m²,25.000 TL
+Yenişehir - Menteş Mahallesi,Daire | 4+1 | 6. Kat | 210 m²,34.000 TL
+Mezitli - Atatürk Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,23.500 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,13.000 TL
+Akdeniz - Turgutreis Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,17.000 TL
+Akdeniz - Turgutreis Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,17.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,30.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,16.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,180.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 2+1 | 4. Kat | 80 m²,25.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 67 m²,13.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 8. Kat | 200 m²,35.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 4. Kat | 175 m²,25.000 TL
+Mezitli - Yeni Mahallesi,Daire | 4+1 | 4. Kat | 220 m²,25.500 TL
+Yenişehir - Dumlupınar Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,20.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,21.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 6. Kat | 95 m²,25.500 TL
+Yenişehir - Barbaros Mahallesi,Daire | 2+1 | 8. Kat | 100 m²,24.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,430.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,18.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 8. Kat | 105 m²,23.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 2+1 | 1. Kat | 115 m²,25.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 1. Kat | 190 m²,17.000 TL
+Mezitli - Bozön Mahallesi,Daire | 2+1 | 1. Kat | 87 m²,20.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 2+1 | 3. Kat | 135 m²,26.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Müstakil | 60 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,16.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 13. Kat | 55 m²,22.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | Stüdyo | 11. Kat | 35 m²,14.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 7. Kat | 100 m²,32.000 TL
+Tarsus - Kırklarsırtı Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,18.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 5. Kat | 120 m²,25.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,15.000 TL
+Toroslar - Osmaniye Mahallesi,Daire | 4+1 | 7. Kat | 190 m²,420.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,15.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 4+1 | 7. Kat | 240 m²,42.000 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 1+1 | Yüksek giriş | 75 m²,20.000 TL
+Akdeniz - Hamidiye Mahallesi,Daire | 3+1 | 2. Kat | 170 m²,17.500 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 3+1 | 12. Kat | 180 m²,37.500 TL
+Yenişehir - Palmiye Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,15.500 TL
+Toroslar - Turgut Türkalp Mahallesi,Daire | 3+1 | 5. Kat | 220 m²,25.000 TL
+Yenişehir - Pirireis Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,16.000 TL
+Mezitli - Atatürk Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,20.000 TL
+Erdemli - Koyuncu Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 8. Kat | 60 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,21.500 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 4. Kat | 125 m²,20.000 TL
+Yenişehir - Limonluk Mahallesi,Daire | 4+1 | 4. Kat | 240 m²,55.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 2+1 | 10. Kat | 120 m²,19.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 1. Kat | 51 m²,16.000 TL
+Mezitli - Menderes Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,22.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 11. Kat | 175 m²,30.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,22.500 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 4+1 | 2. Kat | 190 m²,25.000 TL
+Yenişehir - Menteş Mahallesi,Daire | 3+1 | 5. Kat | 185 m²,34.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 7. Kat | 175 m²,25.000 TL
+Akdeniz - Yeni Mahallesi,Daire | 1+1 | 5. Kat | 90 m²,12.000 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 4+1 | 4. Kat | 220 m²,27.000 TL
+Akdeniz - Çankaya Mahallesi,Daire | 1+1 | 4. Kat | 75 m²,15.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 8. Kat | 110 m²,37.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 1. Kat | 69 m²,11.000 TL
+Tarsus - Bağlar Mahallesi,Daire | 2+1 | 2. Kat | 130 m²,15.500 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 1+1 | 10. Kat | 60 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3.5+1 | 4. Kat | 170 m²,35.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 1+1 | 10. Kat | 60 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3.5+1 | 4. Kat | 170 m²,35.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,15.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,32.000 TL
+Akdeniz - İhsaniye Mahallesi,Daire | 2+1 | 2. Kat | 125 m²,9.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 2. Kat | 185 m²,35.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 1. Kat | 74 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,25.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,23.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 3+1 | 9. Kat | 180 m²,35.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,27.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 12. Kat | 115 m²,35.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 6. Kat | 85 m²,37.000 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 170 m²,18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,18.000 TL
+Tarsus - Şehitler Tepesi Mahallesi,Daire | 4+1 | 1. Kat | 170 m²,27.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 1+1 | 4. Kat | 75 m²,13.000 TL
+Erdemli - Kargıcak Mahallesi,Daire | 1+1 | 5. Kat | 85 m²,17.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,255.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 4+1 | 2. Kat | 190 m²,25.000 TL
+Mezitli - Menderes Mahallesi,Daire | 3+1 | 10. Kat | 165 m²,20.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 7. Kat | 70 m²,15.000 TL
+Silifke - Gazi Mahallesi,Daire | 4+1 | 10. Kat | 145 m²,25.000 TL
+Silifke - Sarıcalar Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,21.000 TL
+Yenişehir - Turunçlu Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,12.000 TL
+Mezitli - Yeni Mahallesi,Daire | 1+1 | 8. Kat | 45 m²,18.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 8. Kat | 180 m²,30.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,30.000 TL
+Yenişehir - Gazi Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,250.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,15.000 TL
+Tarsus - Şehitishak Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,14.000 TL
+Tarsus - Akşemsettin Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,13.500 TL
+Tarsus - Fevzi Çakmak Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,22.000 TL
+Tarsus - Bağlar Mahallesi,Daire | 2+1 | 2. Kat | 125 m²,16.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,35.000 TL
+Erdemli - Alata Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,17.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 8. Kat | 60 m²,14.500 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 11. Kat | 165 m²,21.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,21.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 8. Kat | 50 m²,12.500 TL
+Silifke - Sayağzı Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Silifke - Sayağzı Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,10.000 TL
+Silifke - Sarıcalar Mahallesi,Daire | 3+1 | Bahçe katı | 135 m²,11.000 TL
+Silifke - Göksu Mahallesi,Daire | 3+1 | 5. Kat | 160 m²,17.000 TL
+Tarsus - Şehitishak Mahallesi,Daire | 4+1 | Yüksek giriş | 170 m²,220.000 TL
+Silifke - Göksu Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,18.000 TL
+Silifke - Taşucu Mahallesi,Daire | 2+1 | 6. Kat | 110 m²,18.000 TL
+Silifke - Gazi Mahallesi,Daire | 2+1 | 7. Kat | 110 m²,20.000 TL
+Silifke - Göksu Mahallesi,Daire | 4+1 | 3. Kat | 190 m²,27.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 3+1 | 9. Kat | 190 m²,310.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 11. Kat | 90 m²,27.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 10. Kat | 85 m²,18.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3.5+1 | 3. Kat | 190 m²,33.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 8. Kat | 220 m²,39.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,16.250 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 6. Kat | 200 m²,35.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 4. Kat | 85 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,26.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 11. Kat | 90 m²,22.500 TL27.000 TL
+Tarsus - Öğretmenler Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,14.000 TL
+Mezitli - Menderes Mahallesi,Daire | 3+1 | 10. Kat | 125 m²,30.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,18.000 TL
+Mezitli - Fatih Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,17.500 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,35.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 7. Kat | 160 m²,36.500 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 2+1 | Kot 4 (-4). Kat | 95 m²,19.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,228.000 TL
+Yenişehir - Limonluk Mahallesi,Daire | 4+1 | 8. Kat | 250 m²,35.000 TL
+Akdeniz - Cami Şerif Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,11.000 TL
+Yenişehir - Fuatmorel Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,21.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 100 m²,20.250 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,15.500 TL
+Yenişehir - Batıkent Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 10. Kat | 215 m²,32.500 TL
+Yenişehir - İnönü Mahallesi,Daire | 3+1 | 1. Kat | 195 m²,19.000 TL
+Mezitli - Cumhuriyet Mahallesi,Daire | 1+1 | 1. Kat | 90 m²,15.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 4. Kat | 75 m²,16.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,14.500 TL
+Yenişehir - Batıkent Mahallesi,Daire | 1+1 | 1. Kat | 80 m²,15.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 4+1 | 5. Kat | 200 m²,33.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 9. Kat | 62 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 99 m²,25.000 TL
+Silifke - Göksu Mahallesi,Daire | 4+1 | 2. Kat | 210 m²,30.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,30.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 10. Kat | 110 m²,32.000 TL
+Tarsus - Şehitmustafa Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,21.000 TL
+Bozyazı - Denizciler Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Silifke - Gazi Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,18.000 TL
+Mezitli - Tece Mahallesi,Daire | 3+1 | 4. Kat | 170 m²,30.000 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,15.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,30.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,12.000 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,15.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 5. Kat | 84 m²,20.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,15.000 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,13.500 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,50.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 11. Kat | 140 m²,30.000 TL
+Yenişehir - Palmiye Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,15.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 2+1 | 4. Kat | 115 m²,26.000 TL
+Anamur - Güzelyurt Mahallesi,Daire | 2+1 | 4. Kat | 130 m²,19.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 1. Kat | 140 m²,30.000 TL33.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,18.500 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,15.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 2. Kat | 220 m²,350.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2.5+1 | 12. Kat | 140 m²,35.000 TL
+Tarsus - Mithatpaşa Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,21.000 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 5+1 | 5. Kat | 230 m²,730.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 4. Kat | 160 m²,37.500 TL
+Mezitli - Fatih Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,18.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 80 m²,17.500 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 8. Kat | 78 m²,10.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 8. Kat | 128 m²,15.000 TL
+Mezitli - Fatih Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,17.500 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,17.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,16.500 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 7. Kat | 103 m²,16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 6. Kat | 90 m²,15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,14.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,13.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,30.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,25.500 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,10.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 1. Kat | 78 m²,18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,13.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | Stüdyo | 3. Kat | 50 m²,17.500 TL
+Tarsus - Ergenekon Mahallesi,Daire | 4+1 | 13. Kat | 280 m²,55.000 TL
+Akdeniz - Barış Mahallesi,Daire | 3+1 | Müstakil | 170 m²,10.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 2.5+1 | 4. Kat | 100 m²,36.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,16.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 2+1 | 6. Kat | 140 m²,16.500 TL
+Erdemli - Akdeniz Mahallesi,Daire | 2+1 | 6. Kat | 140 m²,16.500 TL
+Mezitli - Fatih Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,22.000 TL25.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL
+Akdeniz - Karaduvar Mahallesi,Daire | 3+1 | 5. Kat | 149 m²,14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,21.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 3+1 | 5. Kat | 150 m²,17.000 TL
+Erdemli - Alata Mahallesi,Daire | 2+1 | 3. Kat | 105 m²,16.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 2.5+1 | 4. Kat | 100 m²,36.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,35.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 11. Kat | 110 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 220 m²,22.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,17.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 1. Kat | 72 m²,15.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,14.500 TL
+Yenişehir - Fuatmorel Mahallesi,Daire | 3+1 | 2. Kat | 200 m²,35.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 5+1 | 17. Kat | 325 m²,750.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 7. Kat | 175 m²,24.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 2+1 | 1. Kat | 135 m²,18.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,17.000 TL18.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 8. Kat | 220 m²,31.900 TL34.900 TL
+Akdeniz - Kültür Mahallesi,Daire | 3+1 | 4. Kat | 170 m²,20.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,25.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,30.000 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 3+1 | Yüksek giriş | 135 m²,23.000 TL25.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 1. Kat | 170 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2.5+1 | 1. Kat | 130 m²,33.000 TL
+Erdemli - Koyuncu Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,10.500 TL
+Mezitli - Çankaya Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,16.000 TL17.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,25.500 TL
+Akdeniz - Kültür Mahallesi,Daire | 3+1 | 4. Kat | 170 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 155 m²,30.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,15.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 3+1 | 7. Kat | 182 m²,17.000 TL
+Silifke - Yeşilovacık Mahallesi,Daire | 2+1 | 4. Kat | 65 m²,21.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 11. Kat | 120 m²,23.500 TL
+Mezitli - Merkez Mahallesi,Daire | 3.5+1 | 9. Kat | 160 m²,35.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,20.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 5. Kat | 145 m²,25.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 12. Kat | 200 m²,30.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 5. Kat | 180 m²,28.000 TL
+Toroslar - Korukent Mahallesi,Daire | 4+1 | 1. Kat | 190 m²,370.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,240.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 4+1 | 3. Kat | 200 m²,450.000 TL
+Mezitli - Seymenli Mahallesi,Daire | 3+1 | 7. Kat | 165 m²,25.000 TL27.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 8. Kat | 220 m²,31.900 TL34.900 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 6. Kat | 175 m²,390.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 5. Kat | 95 m²,25.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 7. Kat | 103 m²,16.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,23.500 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,20.000 TL
+Yenişehir - Dumlupınar Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 110 m²,19.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 3. Kat | 100 m²,20.000 TL
+Tarsus - Gaziler Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,19.000 TL23.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 8. Kat | 220 m²,31.900 TL34.900 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 6. Kat | 70 m²,24.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Müstakil | 65 m²,17.000 TL
+Anamur - Göktaş Mahallesi,Daire | 3+1 | 8. Kat | 175 m²,25.000 TL
+Akdeniz - Gündoğdu Mahallesi,Daire | 3+1 | 2. Kat | 175 m²,14.000 TL
+Mezitli - Fatih Mahallesi,Daire | 2+1 | 7. Kat | 130 m²,16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 1. Kat | 190 m²,26.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 1+1 | 1. Kat | 80 m²,17.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 4. Kat | 140 m²,25.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | Yüksek giriş | 80 m²,15.000 TL
+Mezitli - Menderes Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,15.000 TL
+Mezitli - Merkez Mahallesi,Daire | 4+1 | 3. Kat | 280 m²,25.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,16.500 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 4+1 | 8. Kat | 260 m²,50.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 1+1 | 4. Kat | 60 m²,16.750 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 6. Kat | 130 m²,28.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 2.5+1 | 4. Kat | 100 m²,36.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,35.000 TL
+Tarsus - Ferahimşalvuz Mahallesi,Daire | 3+1 | 3. Kat | 170 m²,24.000 TL
+Tarsus - Ferahimşalvuz Mahallesi,Daire | 3+1 | 3. Kat | 170 m²,24.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,15.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 2.5+1 | 4. Kat | 165 m²,25.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 6. Kat | 90 m²,15.000 TL
+Mezitli - Merkez Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,156.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,13.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 10. Kat | 80 m²,20.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,18.000 TL20.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 5. Kat | 90 m²,25.000 TL
+Toroslar - Sağlık Mahallesi,Daire | 1+1 | Yüksek giriş | 90 m²,10.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | Yüksek giriş | 150 m²,16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 10. Kat | 160 m²,25.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 1 Oda | Düz Giriş (Zemin) | 42 m²,9.500 TL
+Tarsus - Kırklarsırtı Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,24.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,17.500 TL
+Tarsus - Şehitler Tepesi Mahallesi,Daire | 2+1 | 1. Kat | 130 m²,16.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 5. Kat | 175 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 10. Kat | 120 m²,30.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 4. Kat | 180 m²,20.000 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 7. Kat | 110 m²,40.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,35.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 3+1 | 7. Kat | 180 m²,38.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 6. Kat | 68 m²,18.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 80 m²,17.500 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,21.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 6. Kat | 90 m²,24.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 80 m²,17.500 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 7. Kat | 70 m²,15.000 TL
+Silifke - Taşucu Mahallesi,Daire | 1+1 | Kot 1 (-1). Kat | 50 m²,5.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,34.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | Stüdyo | 7. Kat | 60 m²,15.000 TL
+Tarsus - Atatürk Mahallesi,Daire | 4+1 | 8. Kat | 215 m²,300.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,30.000 TL
+Erdemli - Alata Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,25.000 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,21.500 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 5. Kat | 65 m²,20.000 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,12.000 TL
+Akdeniz - Hamidiye Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,15.000 TL17.000 TL
+Silifke - Yeşilovacık Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,18.500 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 2+1 | 4. Kat | 85 m²,24.000 TL
+Tarsus - Altaylılar Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,3.300.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 6. Kat | 165 m²,25.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 8. Kat | 220 m²,31.900 TL34.900 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 9. Kat | 190 m²,30.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 2+1 | 5. Kat | 90 m²,23.000 TL25.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,200.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 4+1 | 1. Kat | 250 m²,30.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 3+1 | 3. Kat | 190 m²,20.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 3+1 | 3. Kat | 190 m²,36.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,13.000 TL
+Yenişehir - Kocavilayet Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,24.000 TL
+Silifke - Atik Mahallesi,Daire | 3+1 | Kot 1 (-1). Kat | 109 m²,21.000 TL
+Tarsus - Atatürk Mahallesi,Daire | 1+1 | Yüksek giriş | 90 m²,17.000 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 5. Kat | 160 m²,17.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 9. Kat | 85 m²,17.000 TL
+Akdeniz - İhsaniye Mahallesi,Daire | 4+1 | 1. Kat | 210 m²,15.000 TL
+Akdeniz - Nusratiye Mahallesi,Daire | 2+1 | Çatı katı | 120 m²,13.500 TL
+Erdemli - Türbe Mahallesi,Daire | 3+1 | 12. Kat | 190 m²,35.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 9. Kat | 60 m²,17.500 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,17.500 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,10.000 TL
+Erdemli - Alata Mahallesi,Daire | 3.5+1 | 3. Kat | 200 m²,21.500 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 8. Kat | 150 m²,20.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 5. Kat | 50 m²,15.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,19.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 4. Kat | 70 m²,11.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,16.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Bahçe katı | 65 m²,19.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,18.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 2+1 | 6. Kat | 90 m²,27.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 1. Kat | 190 m²,35.000 TL
+Akdeniz - Mesudiye Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,14.500 TL
+Yenişehir - İnönü Mahallesi,Daire | 3+1 | 4. Kat | 195 m²,20.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,17.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 4. Kat | 85 m²,15.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 7. Kat | 190 m²,320.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,15.000 TL16.000 TL
+Yenişehir - Gazi Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,25.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 6. Kat | 55 m²,13.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 3. Kat | 130 m²,18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 10. Kat | 170 m²,32.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 2+1 | Bahçe katı | 65 m²,11.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 9. Kat | 55 m²,17.000 TL
+Silifke - Taşucu Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,25.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 10. Kat | 185 m²,390.000 TL
+Toroslar - Osmaniye Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,16.000 TL
+Mezitli - Yeni Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,15.000 TL
+Mezitli - Cumhuriyet Mahallesi,Daire | 1+1 | 8. Kat | 75 m²,32.500 TL
+Mezitli - İstiklal Mahallesi,Daire | 2+1 | 1. Kat | 130 m²,25.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 2+1 | 5. Kat | 90 m²,250.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,20.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 7. Kat | 55 m²,12.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 1+1 | 5. Kat | 55 m²,14.500 TL
+Toroslar - Akbelen Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,21.500 TL23.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,25.000 TL
+Silifke - Taşucu Mahallesi,Daire | 2+1 | 5. Kat | 75 m²,17.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,13.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Toroslar - Korukent Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,16.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,17.500 TL
+Mezitli - Menderes Mahallesi,Daire | 3+1 | 7. Kat | 185 m²,24.000 TL
+Anamur - Saray Mahallesi,Daire | 3+1 | Kot 1 (-1). Kat | 175 m²,27.500 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 4. Kat | 200 m²,45.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 4+1 | 2. Kat | 220 m²,30.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,17.000 TL18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,16.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,17.500 TL
+Tarsus - Takbaş Mahallesi,Daire | 2+1 | 1. Kat | 55 m²,19.750 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 3. Kat | 220 m²,360.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 4+1 | 2. Kat | 200 m²,19.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,27.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 6. Kat | 150 m²,18.000 TL20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 6. Kat | 80 m²,15.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 5. Kat | 105 m²,25.000 TL
+Yenişehir - Palmiye Mahallesi,Daire | 3+1 | 7. Kat | 150 m²,21.000 TL23.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,25.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,40.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,20.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 1+1 | 8. Kat | 69 m²,120.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,35.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2.5+1 | 5. Kat | 130 m²,25.000 TL
+Mezitli - Atatürk Mahallesi,Daire | 2+1 | 9. Kat | 120 m²,27.000 TL
+Mezitli - Fatih Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,15.500 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,50.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 8. Kat | 55 m²,35.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,27.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 11. Kat | 120 m²,28.000 TL
+Tarsus - Ergenekon Mahallesi,Daire | 3+1 | 13. Kat | 155 m²,30.000 TL
+Tarsus - Takbaş Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,15.000 TL
+Tarsus - Atatürk Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,16.500 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,13.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,16.000 TL
+Mezitli - Fatih Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,22.500 TL
+Yenişehir - Menteş Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,360.000 TL
+Yenişehir - İnönü Mahallesi,Daire | 3+1 | 2. Kat | 185 m²,21.000 TL
+Yenişehir - Menteş Mahallesi,Daire | 2+1 | 3. Kat | 98 m²,28.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,17.500 TL
+Tarsus - Şehitmustafa Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,14.000 TL15.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,30.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 8. Kat | 130 m²,29.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,16.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | Stüdyo | 1. Kat | 30 m²,11.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 9. Kat | 90 m²,25.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | Villa tipi | 220 m²,40.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 55 m²,11.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 55 m²,11.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 1. Kat | 189 m²,45.000 TL
+Akdeniz - Nusratiye Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,20.000 TL
+Mezitli - Menderes Mahallesi,Daire | 3+1 | 5. Kat | 145 m²,40.000 TL
+Akdeniz - Kiremithane Mahallesi,Daire | 2.5+1 | 4. Kat | 120 m²,22.000 TL
+Mezitli - Fatih Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,17.500 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 6. Kat | 65 m²,20.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 2+1 | 10. Kat | 130 m²,15.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 1+1 | 8. Kat | 60 m²,12.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,25.000 TL
+Silifke - Göksu Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,21.000 TL
+Mezitli - Fatih Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,26.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,18.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,24.000 TL
+Mezitli - Hürriyet Mahallesi,Daire | 1+1 | 7. Kat | 84 m²,16.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 12. Kat | 213 m²,38.000 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 8. Kat | 180 m²,21.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,14.000 TL15.000 TL
+Silifke - Taşucu Mahallesi,Daire | 1+1 | 4. Kat | 70 m²,16.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 2+1 | 4. Kat | 130 m²,13.500 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 3. Kat | 180 m²,19.000 TL22.500 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Kot 2 (-2). Kat | 70 m²,15.000 TL16.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 2+1 | 8. Kat | 105 m²,5.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 3. Kat | 72 m²,4.000 TL
+Akdeniz - Mahmudiye Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,10.000 TL
+Tarsus - Kavaklı Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,13.000 TL14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 9. Kat | 155 m²,30.000 TL
+Silifke - Gazi Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,15.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,17.000 TL
+Tarsus - Yeni Ömerli Mahallesi,Daire | 4+1 | 2. Kat | 180 m²,30.500 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 5+1 | 5. Kat | 210 m²,35.000 TL
+Yenişehir - Menteş Mahallesi,Daire | 4+1 | 7. Kat | 275 m²,50.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 3+1 | 9. Kat | 165 m²,200.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,30.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 8. Kat | 60 m²,17.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 11. Kat | 55 m²,50.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,15.000 TL
+Mezitli - Tece Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,20.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 6. Kat | 65 m²,12.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,15.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,15.000 TL
+Toroslar - Yusuf Kılıç Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,11.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,20.000 TL
+Akdeniz - Nusratiye Mahallesi,Daire | 3+1 | 4. Kat | 180 m²,16.500 TL
+Tarsus - Duatepe Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,20.000 TL
+Tarsus - Gaziler Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,15.000 TL
+Yenişehir - Palmiye Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,13.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 6. Kat | 60 m²,15.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 2. Kat | 180 m²,22.000 TL
+Erdemli - Kızkalesi Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,2.500 TL
+Anamur - Güzelyurt Mahallesi,Daire | 2+1 | 3. Kat | 145 m²,22.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 8. Kat | 180 m²,65.000 TL
+Mezitli - Tece Mahallesi,Daire | 3+1 | 9. Kat | 150 m²,17.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 8. Kat | 180 m²,26.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 5+1 | 27. Kat | 300 m²,1.000.000 TL
+Tarsus - Yeni Ömerli Mahallesi,Daire | 4+1 | 2. Kat | 245 m²,25.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,23.000 TL25.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2.5+1 | Düz Giriş (Zemin) | 110 m²,315.000 TL
+Mezitli - Cumhuriyet Mahallesi,Daire | 2+1 | Bahçe katı | 120 m²,50.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 4. Kat | 70 m²,20.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 5. Kat | 170 m²,360.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | Stüdyo | 1. Kat | 50 m²,11.000 TL12.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,12.000 TL
+Toroslar - Portakal Mahallesi,Daire | 3+1 | Yüksek giriş | 180 m²,27.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 11. Kat | 120 m²,20.000 TL21.500 TL
+Erdemli - Merkez Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,15.000 TL
+Erdemli - Tırtar Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,18.000 TL
+Silifke - Göksu Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 80 m²,19.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,11.500 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 4+1 | 1. Kat | 155 m²,40.000 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,24.500 TL26.000 TL
+Akdeniz - Mahmudiye Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 105 m²,7.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 8. Kat | 70 m²,17.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,17.000 TL
+Toroslar - Güneykent Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,15.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 9. Kat | 125 m²,20.000 TL
+Yenişehir - Pirireis Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,15.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 12. Kat | 50 m²,14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 6. Kat | 120 m²,20.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,18.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 2. Kat | 175 m²,21.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 6. Kat | 195 m²,45.000 TL50.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | Bahçe katı | 250 m²,55.000 TL60.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,15.000 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,14.000 TL15.000 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 11. Kat | 100 m²,25.750 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 11. Kat | 100 m²,25.750 TL
+Erdemli - Koyuncu Mahallesi,Daire | 2+1 | 6. Kat | 110 m²,10.000 TL
+Silifke - Atayurt Mahallesi,Daire | 1+1 | Bahçe katı | 80 m²,100.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,12.000 TL
+Mezitli - Menderes Mahallesi,Daire | 2+1 | 9. Kat | 120 m²,30.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 3. Kat | 125 m²,23.000 TL25.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,25.000 TL
+Akdeniz - Turgutreis Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,18.500 TL20.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 4+1 | 2. Kat | 170 m²,19.000 TL
+Tarsus - Ferahimşalvuz Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,10.500 TL11.500 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | Yüksek giriş | 52 m²,20.000 TL
+Erdemli - Tömük Mahallesi,Daire | 3+1 | 1. Kat | 265 m²,300.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,19.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,17.000 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 5+1 | 18. Kat | 300 m²,720.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 3+1 | Yüksek giriş | 130 m²,15.000 TL
+Yenişehir - Menteş Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,22.000 TL25.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,13.000 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 6. Kat | 160 m²,20.000 TL22.500 TL
+Silifke - Taşucu Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,18.000 TL
+Silifke - Saray Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,13.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 3. Kat | 143 m²,25.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 1. Kat | 170 m²,20.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,15.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 5. Kat | 80 m²,18.000 TL45.000 TL
+Akdeniz - Hamidiye Mahallesi,Daire | 3+1 | 6. Kat | 200 m²,35.000 TL
+Silifke - Taşucu Mahallesi,Daire | 1+1 | 3. Kat | 45 m²,19.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,16.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 7. Kat | 203 m²,43.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,25.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 7. Kat | 65 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,25.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 2+1 | 6. Kat | 140 m²,16.500 TL18.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 8. Kat | 60 m²,13.000 TL17.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 2+1 | 19. Kat | 120 m²,60.000 TL
+Mezitli - Atatürk Mahallesi,Daire | 3+1 | 7. Kat | 150 m²,15.000 TL
+Toroslar - Halkkent Mahallesi,Daire | 2+1 | 4. Kat | 115 m²,12.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 3+1 | 11. Kat | 170 m²,5.500 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,17.000 TL18.000 TL
+Tarsus - Sucular Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,19.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,35.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 6. Kat | 65 m²,20.000 TL
+Anamur - İskele Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,19.500 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 2+1 | 1. Kat | 148 m²,40.000 TL
+Mezitli - İstiklal Mahallesi,Daire | 2+1 | 5. Kat | 125 m²,25.000 TL
+Çamlıyayla - Belçınar Mahallesi,Daire | 1.5+1 | Bahçe katı | 90 m²,75.000 TL
+Erdemli - Limonlu Mahallesi,Daire | 1+1 | 2. Kat | 70 m²,100.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 13. Kat | 210 m²,35.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,25.000 TL27.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 3+1 | 5. Kat | 140 m²,39.000 TL
+Toroslar - Mithat Toroğlu Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,18.000 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 8. Kat | 75 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 54 m²,15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 12. Kat | 110 m²,18.250 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 7. Kat | 110 m²,18.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 4+1 | 7. Kat | 250 m²,85.000 TL
+Mezitli - Hürriyet Mahallesi,Daire | 1+1 | 3. Kat | 82 m²,30.000 TL
+Yenişehir - Limonluk Mahallesi,Daire | 3+1 | 13. Kat | 224 m²,700.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 1. Kat | 220 m²,58.000 TL
+Erdemli - Alata Mahallesi,Daire | 3+1 | 6. Kat | 138 m²,25.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,13.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 4. Kat | 50 m²,18.000 TL
+Akdeniz - Hamidiye Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,9.500 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 4+1 | 8. Kat | 180 m²,440.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 1+1 | 7. Kat | 60 m²,30.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,12.500 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,11.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 4+1 | 6. Kat | 318 m²,35.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 3+1 | 5. Kat | 120 m²,27.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,17.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 4+1 | 2. Kat | 240 m²,25.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 3. Kat | 150 m²,115.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 8. Kat | 55 m²,11.000 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 194 m²,25.000 TL30.000 TL
+Toroslar - Halkkent Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,12.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 14. Kat | 64 m²,21.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 6. Kat | 70 m²,13.000 TL
+Erdemli - Alata Mahallesi,Daire | 2.5+1 | 7. Kat | 120 m²,15.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 5. Kat | 165 m²,18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,21.000 TL
+Yenişehir - İnönü Mahallesi,Daire | 2+1 | 3. Kat | 135 m²,16.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 6. Kat | 135 m²,120.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,18.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 2+1 | 4. Kat | 124 m²,14.500 TL
+Anamur - İskele Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,19.500 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 194 m²,350.000 TL
+Erdemli - Alata Mahallesi,Daire | 3.5+1 | 7. Kat | 180 m²,35.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 3+1 | 8. Kat | 170 m²,17.500 TL
+Erdemli - Merkez Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,12.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 14. Kat | 300 m²,700.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 12. Kat | 350 m²,720.000 TL
+Yenişehir - Fuatmorel Mahallesi,Daire | 5+1 | 3. Kat | 330 m²,750.000 TL
+Yenişehir - Pirireis Mahallesi,Daire | 3+1 | 3. Kat | 175 m²,315.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,265.000 TL
+Toroslar - Portakal Mahallesi,Daire | 2+1 | Bahçe katı | 90 m²,15.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 1+1 | Yüksek giriş | 50 m²,13.000 TL
+Mezitli - Deniz Mahallesi,Daire | 3+1 | 9. Kat | 190 m²,35.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 2+1 | 6. Kat | 130 m²,22.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,15.000 TL
+Mezitli - Yeni Mahallesi,Daire | 1+1 | 4. Kat | 58 m²,12.500 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 4. Kat | 72 m²,25.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 8. Kat | 240 m²,42.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 1+1 | 3. Kat | 35 m²,13.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 3+1 | 8. Kat | 160 m²,450.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,20.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,20.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | Bahçe katı | 60 m²,10.000 TL11.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,17.000 TL
+Gülnar - Akdeniz Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,15.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 3.5+1 | 7. Kat | 140 m²,31.000 TL35.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,16.000 TL18.000 TL
+Tarsus - 82 Evler Mahallesi,Daire | 3+1 | 8. Kat | 115 m²,17.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 3+1 | Bahçe katı | 145 m²,75.000 TL
+Erdemli - Tömük Mahallesi,Daire | 3+1 | 1. Kat | 190 m²,200.000 TL
+Erdemli - Tömük Mahallesi,Daire | 3+1 | 1. Kat | 190 m²,200.000 TL
+Toroslar - Çukurova Mahallesi,Daire | 2+1 | Yüksek giriş | 140 m²,15.500 TL
+Yenişehir - 50. Yıl Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,350.000 TL
+Erdemli - Koyuncu Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,11.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 3+1 | 10. Kat | 185 m²,23.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 14. Kat | 56 m²,16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 9. Kat | 200 m²,550.000 TL600.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,10.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 6. Kat | 140 m²,25.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 53 m²,14.000 TL15.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,18.000 TL
+Mezitli - Merkez Mahallesi,Daire | 4+1 | 10. Kat | 220 m²,30.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 7. Kat | 100 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,14.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 11. Kat | 55 m²,13.500 TL
+Mezitli - Yeni Mahallesi,Daire | 2.5+1 | 5. Kat | 144 m²,275.000 TL300.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 1. Kat | 52 m²,16.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,19.000 TL
+Tarsus - Fevzi Çakmak Mahallesi,Daire | 2+1 | 2. Kat | 54 m²,15.000 TL
+Mezitli - Yeni Mahallesi,Daire | 1+1 | 9. Kat | 55 m²,17.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | Yüksek giriş | 70 m²,14.500 TL
+Erdemli - Merkez Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,20.000 TL
+Mezitli - Merkez Mahallesi,Daire | 1+1 | 5. Kat | 70 m²,18.000 TL
+Akdeniz - Hamidiye Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,14.000 TL15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 3. Kat | 140 m²,22.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,12.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,20.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 42 m²,10.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 40 m²,12.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,12.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 8. Kat | 75 m²,22.000 TL
+Silifke - Göksu Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,16.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 4+1 | 4. Kat | 220 m²,35.000 TL
+Erdemli - Kızkalesi Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,15.000 TL
+Erdemli - Merkez Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,12.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 2+1 | 7. Kat | 110 m²,24.000 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,350.000 TL
+Mezitli - Merkez Mahallesi,Daire | 4+1 | 6. Kat | 170 m²,22.000 TL
+Silifke - Taşucu Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,20.000 TL23.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 2+1 | 2. Kat | 130 m²,14.000 TL15.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,250.000 TL
+Mezitli - Merkez Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,300.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,16.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 7. Kat | 200 m²,25.000 TL27.000 TL
+Mezitli - Menderes Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,15.000 TL
+Mezitli - Seymenli Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,17.000 TL
+Mezitli - Merkez Mahallesi,Daire | 3+1 | 3. Kat | 145 m²,20.000 TL
+Yenişehir - Bahçelievler Mahallesi,Daire | 3+1 | 11. Kat | 175 m²,30.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 7. Kat | 53 m²,16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 13. Kat | 55 m²,15.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,14.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 9. Kat | 95 m²,18.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,14.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,18.000 TL
+Tarsus - Beydeğirmeni Mahallesi,Daire | 2+1 | 4. Kat | 70 m²,15.750 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 6. Kat | 95 m²,15.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,20.250 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,23.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 6. Kat | 90 m²,20.000 TL
+Mezitli - Yeni Mahallesi,Daire | 3+1 | 8. Kat | 150 m²,17.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 6. Kat | 135 m²,25.000 TL
+Yenişehir - Deniz Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,32.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 5. Kat | 230 m²,30.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 11. Kat | 230 m²,30.000 TL
+Erdemli - Kızkalesi Mahallesi,Daire | 1+1 | 4. Kat | 65 m²,25.000 TL
+Mezitli - Menderes Mahallesi,Daire | 3+1 | 1. Kat | 140 m²,45.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,26.500 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 80 m²,17.500 TL20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL16.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 6. Kat | 165 m²,250.000 TL295.000 TL
+Silifke - Atayurt Mahallesi,Daire | 2+1 | Villa tipi | 150 m²,250.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 3+1 | 5. Kat | 170 m²,24.000 TL26.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 14. Kat | 97 m²,20.000 TL22.000 TL
+Yenişehir - Gazi Mahallesi,Daire | 3+1 | 4. Kat | 180 m²,20.000 TL
+Yenişehir - Barbaros Mahallesi,Daire | 4+1 | 7. Kat | 250 m²,1.050.000 TL
+Erdemli - Merkez Mahallesi,Daire | 2.5+1 | 4. Kat | 120 m²,16.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 3+1 | 6. Kat | 150 m²,22.000 TL
+Mezitli - Fatih Mahallesi,Daire | 4+1 | 9. Kat | 250 m²,60.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 1+1 | 7. Kat | 58 m²,15.500 TL
+Mezitli - Kuyuluk Mahallesi,Daire | 2+1 | 4. Kat | 77 m²,20.000 TL25.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 80 m²,17.500 TL20.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 7. Kat | 55 m²,10.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 4. Kat | 180 m²,22.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 13. Kat | 80 m²,18.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL16.000 TL
+Silifke - Atakent Mahallesi,Daire | 1+1 | 1. Kat | 95 m²,120.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 5. Kat | 130 m²,25.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,11.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 11. Kat | 100 m²,23.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 6. Kat | 50 m²,14.000 TL16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,11.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,11.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,18.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 4+1 | 9. Kat | 210 m²,525.000 TL
+Mezitli - Hürriyet Mahallesi,Daire | 1+1 | 7. Kat | 65 m²,12.000 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 5. Kat | 100 m²,20.000 TL
+Silifke - Göksu Mahallesi,Daire | 3+1 | 6. Kat | 160 m²,16.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 8. Kat | 130 m²,14.000 TL
+Silifke - Gazi Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 70 m²,12.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 10. Kat | 90 m²,15.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,15.000 TL
+Akdeniz - Camili Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,10.000 TL
+Erdemli - Kargıpınarı Mahallesi,Daire | 2+1 | 1. Kat | 160 m²,15.000 TL
+Mezitli - Tece Mahallesi,Daire | 3+1 | 5. Kat | 170 m²,19.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,19.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 80 m²,17.500 TL20.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 2+1 | 8. Kat | 130 m²,180.000 TL
+Tarsus - Şehitishak Mahallesi,Daire | 2+1 | 2. Kat | 1.120 m²,14.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,18.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 9. Kat | 140 m²,300.000 TL
+Mezitli - Eski Mezitli Mahallesi,Daire | 2+1 | 1. Kat | 148 m²,40.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 100 m²,16.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 2. Kat | 155 m²,25.000 TL
+Tarsus - Kavaklı Mahallesi,Daire | 3+1 | 10. Kat | 120 m²,14.000 TL16.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 12. Kat | 120 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 12. Kat | 80 m²,17.000 TL18.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 13. Kat | 65 m²,25.000 TL
+Mezitli - Merkez Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 70 m²,14.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 13. Kat | 205 m²,27.000 TL
+Yenişehir - Palmiye Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,23.500 TL
+Mezitli - Akdeniz Mahallesi,Daire | 2+1 | 6. Kat | 135 m²,24.000 TL
+Yenişehir - Turunçlu Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 130 m²,15.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 9. Kat | 65 m²,12.000 TL
+Akdeniz - Çankaya Mahallesi,Daire | 1+1 | 4. Kat | 600 m²,1.650.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,14.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,17.000 TL
+Yenişehir - Hürriyet Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,16.500 TL
+Erdemli - Kocahasanlı Mahallesi,Daire | 1+1 | 1. Kat | 60 m²,10.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 2+1 | 8. Kat | 113 m²,16.500 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 4. Kat | 54 m²,20.000 TL
+Yenişehir - Gazi Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,11.500 TL
+Yenişehir - Barbaros Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 165 m²,12.000 TL13.000 TL
+Akdeniz - Kiremithane Mahallesi,Daire | 3+1 | 1. Kat | 160 m²,14.000 TL15.000 TL
+Erdemli - Tömük Mahallesi,Daire | 3+1 | 4. Kat | 160 m²,15.000 TL
+Yenişehir - Kuzeykent Mahallesi,Daire | 3+1 | 3. Kat | 165 m²,30.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 4. Kat | 95 m²,13.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 7. Kat | 55 m²,10.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,23.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 2+1 | 1. Kat | 70 m²,15.000 TL
+Mezitli - Yeni Mahallesi,Daire | 1+1 | 4. Kat | 45 m²,17.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 4+1 | 8. Kat | 210 m²,30.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 8. Kat | 70 m²,12.500 TL
+Mezitli - Atatürk Mahallesi,Daire | 3+1 | 1. Kat | 180 m²,20.000 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | 7. Kat | 70 m²,15.000 TL
+Mezitli - İstiklal Mahallesi,Daire | 3+1 | 10. Kat | 180 m²,20.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 7. Kat | 95 m²,20.000 TL
+Mezitli - Atatürk Mahallesi,Daire | 3+1 | 4. Kat | 180 m²,25.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,17.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 3+1 | 6. Kat | 160 m²,25.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 3+1 | 5. Kat | 159 m²,20.000 TL
+Erdemli - Ayaş Mahallesi,Daire | 1+1 | 5. Kat | 65 m²,16.000 TL
+Yenişehir - Batıkent Mahallesi,Daire | 4+3 | 12. Kat | 350 m²,650.000 TL
+Mezitli - Seymenli Mahallesi,Daire | 1+1 | 5. Kat | 50 m²,120.000 TL
+Mezitli - Viranşehir Mahallesi,Daire | 3+1 | 13. Kat | 205 m²,300.000 TL
+Mezitli - Yeni Mahallesi,Daire | 1+1 | 8. Kat | 50 m²,12.500 TL
+Mezitli - Tece Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,20.000 TL
+Mezitli - Menderes Mahallesi,Daire | 2+1 | 10. Kat | 90 m²,18.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 2+1 | 8. Kat | 130 m²,250.000 TL
+Mezitli - Atatürk Mahallesi,Daire | 3+1 | 1. Kat | 155 m²,25.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 2+1 | 10. Kat | 128 m²,13.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 6. Kat | 100 m²,35.000 TL
+Yenişehir - Fuatmorel Mahallesi,Daire | 1.5+1 | 5. Kat | 85 m²,380.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 1+1 | 2. Kat | 58 m²,12.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 2. Kat | 90 m²,245.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,37.000 TL
+Yenişehir - Eğriçam Mahallesi,Daire | 3+1 | 1. Kat | 220 m²,20.000 TL
+Yenişehir - Aydınlıkevler Mahallesi,Daire | 3+1 | 1. Kat | 155 m²,20.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 7. Kat | 60 m²,10.000 TL
+Akdeniz - Mahmudiye Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,15.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 7. Kat | 95 m²,20.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 6. Kat | 60 m²,20.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 5. Kat | 135 m²,4.500.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,70.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,70.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 3. Kat | 45 m²,12.000 TL
+Erdemli - Kızkalesi Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,3.500 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 3. Kat | 45 m²,12.000 TL
+Erdemli - Kızkalesi Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,3.500 TL
+Erdemli - Tömük Mahallesi,Daire | 1+1 | Yüksek giriş | 90 m²,3.499 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 6. Kat | 120 m²,90.000 TL
+Erdemli - Tömük Mahallesi,Daire | 2+1 | 2. Kat | 145 m²,90.000 TL
+Mezitli - Deniz Mahallesi,Daire | 1+1 | 1. Kat | 68 m²,15.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,20.000 TL
+Silifke - Yeşilovacık Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,19.000 TL23.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,22.000 TL
+Yenişehir - İnönü Mahallesi,Daire | 4+1 | 5. Kat | 240 m²,230.000 TL
+Mezitli - Akdeniz Mahallesi,Daire | 3+1 | 3. Kat | 165 m²,25.000 TL
+Erdemli - Limonlu Mahallesi,Daire | 2+1 | 7. Kat | 120 m²,20.000 TL
+Mezitli - Deniz Mahallesi,Daire | 2+1 | 8. Kat | 120 m²,20.000 TL
+Erdemli - Arpaçbahşiş Mahallesi,Daire | 1+1 | 13. Kat | 68 m²,25.000 TL35.000 TL
+Erdemli - Çeşmeli Mahallesi,Daire | 2+1 | 7. Kat | 155 m²,4.000 TL4.500 TL
+Yenişehir - Limonluk Mahallesi,Daire | 2+1 | 12. Kat | 170 m²,32.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 2+1 | 5. Kat | 125 m²,18.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 4. Kat | 58 m²,15.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 3. Kat | 80 m²,15.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,2.500 TL3.000 TL
+Yenişehir - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 125 m²,28.000 TL
+Mezitli - Fatih Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,10.000 TL
+Tarsus - Bağlar Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,16.000 TL
+Tarsus - Bağlar Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,155.000 TL
+Mezitli - Fatih Mahallesi,Daire | 1+1 | 4. Kat | 50 m²,12.000 TL
+Mezitli - Davultepe Mahallesi,Daire | 1+1 | 4. Kat | 70 m²,15.000 TL
+Mezitli - Menderes Mahallesi,Daire | 4+1 | 5. Kat | 210 m²,400.000 TL
+Yenişehir - Akkent Mahallesi,Daire | 3+1 | 5. Kat | 150 m²,22.500 TL
+Mezitli - Menderes Mahallesi,Daire | 2+1 | 8. Kat | 105 m²,20.000 TL
+Anamur - Güzelyurt Mahallesi,Daire | 3+1 | 1. Kat | 153 m²,25.000 TL
+Mezitli - 75. Yıl Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,20.000 TL
+Akdeniz - Mesudiye Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,15.000 TL
+Tarsus - Takbaş Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,20.000 TL
+Mezitli - Menderes Mahallesi,Daire | 2+1 | 6. Kat | 140 m²,25.000 TL
+Tarsus - Beydeğirmeni Mahallesi,Daire | 3+1 | 5. Kat | 150 m²,16.000 TL
+Yenişehir - Pirireis Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,16.000 TL
+Toroslar - Sağlık Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,15.000 TL
+Erdemli - Akdeniz Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,13.000 TL
+Erdemli - Alata Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,15.000 TL
+Akdeniz - İhsaniye Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Yenişehir - Pirireis Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,15.000 TL
+Erdemli - Kargıcak Mahallesi,Daire | 1.5+1 | 4. Kat | 75 m²,17.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,14.000 TL
+Yenişehir - Güvenevler Mahallesi,Daire | 3+1 | 3. Kat | 155 m²,17.500 TL
+Mezitli - İstiklal Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,17.000 TL
+Erdemli - Koyuncu Mahallesi,Daire | 2+1 | 6. Kat | 125 m²,15.000 TL
+Mezitli - Tece Mahallesi,Daire | 1+1 | 7. Kat | 60 m²,14.000 TL
+Mezitli - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,300.000 TL
+Yenişehir - Çiftlikköy Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,19.500 TL
+Akdeniz - Nusratiye Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,12.500 TL

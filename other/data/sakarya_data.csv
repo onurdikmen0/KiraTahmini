@@ -1,0 +1,614 @@
+location,information,sales_price
+Karasu - İncilli Mahallesi,Daire | 3+1 | 1. Kat | 125 m²,16.000 TL
+Adapazarı - Yeni Cami Mahallesi,Daire | 1+1 | 3. Kat | 105 m²,16.500 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | 4+1 | 4. Kat | 145 m²,15.500 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,10.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 4. Kat | 55 m²,11.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,15.000 TL
+Erenler - Erenler Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,23.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,22.000 TL
+Sapanca - Rüstempasa Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,20.000 TL
+Erenler - Dilmen Mahallesi,Daire | 4+1 | 2. Kat | 175 m²,18.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,25.000 TL
+Adapazarı - Akıncılar Mahallesi,Daire | 3+1 | 5. Kat | 125 m²,14.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 3+1 | 1. Kat | 152 m²,21.000 TL
+Adapazarı - İstiklal Mahallesi,Daire | 1+1 | 1. Kat | 88 m²,15.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 2+1 | 3. Kat | 105 m²,15.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 3. Kat | 70 m²,25.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 30 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,18.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,19.000 TL
+Erenler - Küpçüler Mahallesi,Daire | 2+1 | 3. Kat | 97 m²,20.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 2+1 | 3. Kat | 125 m²,17.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,10.000 TL
+Erenler - Erenler Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,25.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,50.000 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,20.000 TL
+Adapazarı - Güneşler Merkez Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,25.000 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,12.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 4. Kat | 105 m²,17.000 TL
+Karasu - Kabakoz Mahallesi,Daire | 3+1 | 3. Kat | 85 m²,20.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,17.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,25.000 TL
+Sapanca - Memnuniye Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,22.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 71 m²,24.250 TL
+Adapazarı - Papuççular Mahallesi,Daire | 2+1 | 5. Kat | 125 m²,15.250 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,22.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 70 m²,18.500 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,15.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 3. Kat | 27 m²,11.500 TL
+Serdivan - İstiklal Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,14.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 60 m²,16.000 TL
+Serdivan - İstiklal Mahallesi,Daire | Stüdyo | Çatı katı | 35 m²,12.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,30.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,14.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 4. Kat | 145 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,15.000 TL
+Hendek - Kemaliye Mahallesi,Daire | 2+1 | 5. Kat | 130 m²,15.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,15.000 TL
+Arifiye - Neviye Mahallesi,Daire | 1+1 | 3. Kat | 90 m²,15.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 65 m²,17.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 27 m²,14.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,16.250 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 27 m²,12.500 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,9.000 TL
+Akyazı - Konuralp Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,16.000 TL
+Sapanca - Güldibi Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,20.000 TL
+Sapanca - Gazipaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 70 m²,20.000 TL
+Akyazı - Yunus Emre Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,15.000 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,10.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 5+1 | 4. Kat | 285 m²,50.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,20.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,25.000 TL
+Kocaali - Yayla Mahallesi,Daire | 3+1 | Yüksek giriş | 120 m²,16.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 5+1 | Müstakil | 200 m²,25.000 TL
+Serdivan - Yazlık Mahallesi,Daire | 3+1 | Yüksek giriş | 130 m²,32.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,30.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 3+1 | Yüksek giriş | 110 m²,16.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,30.000 TL
+Akyazı - Yeni Mahallesi,Daire | 2+0 | 3. Kat | 70 m²,15.000 TL
+Adapazarı - Orta Mahallesi,Daire | 2+1 | 1. Kat | 125 m²,22.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,20.000 TL
+Serdivan - Köprübaşı Mahallesi,Daire | 3+1 | 1. Kat | 145 m²,35.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | Yüksek giriş | 50 m²,12.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 1. Kat | 75 m²,15.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 4. Kat | 115 m²,17.000 TL
+Adapazarı - Güllük Mahallesi,Daire | Stüdyo | 2. Kat | 32 m²,12.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 3+1 | 3. Kat | 110 m²,17.500 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | Yüksek giriş | 45 m²,8.000 TL
+Akyazı - Fatih Mahallesi,Daire | 1+1 | 3. Kat | 45 m²,8.000 TL
+Arifiye - Hanlı Merkez Mahallesi,Daire | 2+1 | 4. Kat | 120 m²,15.000 TL
+Serdivan - İstiklal Mahallesi,Daire | Stüdyo | Çatı katı | 45 m²,12.000 TL
+Adapazarı - Yahyalar Mahallesi,Daire | 1+1 | 1. Kat | 40 m²,13.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 75 m²,17.500 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | 3+1 | 4. Kat | 150 m²,20.000 TL
+Adapazarı - Güneşler Merkez Mahallesi,Daire | 3+1 | Yüksek giriş | 135 m²,28.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 3+1 | 2. Kat | 148 m²,32.000 TL
+Karasu - Kabakoz Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,22.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 1+1 | 4. Kat | 50 m²,16.500 TL
+Serdivan - İstiklal Mahallesi,Daire | 1+1 | Çatı katı | 55 m²,17.000 TL
+Adapazarı - Yahyalar Mahallesi,Daire | Stüdyo | 3. Kat | 40 m²,17.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 60 m²,15.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 50 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 135 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 135 m²,2.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 3. Kat | 135 m²,2.500 TL
+Arifiye - Hanlı Merkez Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,24.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,19.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 45 m²,14.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 75 m²,2.500 TL
+Adapazarı - İstiklal Mahallesi,Daire | 3+1 | 2. Kat | 145 m²,30.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,16.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 115 m²,22.500 TL
+Adapazarı - Tekeler Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,12.000 TL
+Arifiye - Hanlı Merkez Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,25.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,13.000 TL
+Serdivan - Köprübaşı Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,30.000 TL
+Arifiye - Fatih Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,25.500 TL
+Adapazarı - Şeker Mahallesi,Daire | 2+1 | 2. Kat | 160 m²,25.000 TL
+Arifiye - Aşağı Kirazca Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,20.000 TL
+Adapazarı - Güneşler Yeni Mahallesi,Daire | 2+1 | Kot 2 (-2). Kat | 90 m²,12.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,17.500 TL
+Adapazarı - Korucuk Mahallesi,Daire | 4+1 | Düz Giriş (Zemin) | 165 m²,32.500 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 3.5+1 | Bahçe dublex | 168 m²,36.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Bodrum Kat | 62 m²,16.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,14.000 TL
+Adapazarı - Tepekum Mahallesi,Daire | 5+1 | Yüksek giriş | 190 m²,37.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,30.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | Stüdyo | 3. Kat | 52 m²,22.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,20.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,29.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,23.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,18.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,18.000 TL
+Serdivan - İstiklal Mahallesi,Daire | Stüdyo | 2. Kat | 35 m²,13.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,17.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 60 m²,20.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,18.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,25.000 TL
+Adapazarı - Şirinevler Mahallesi,Daire | 1+1 | 1. Kat | 40 m²,17.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 60 m²,12.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 60 m²,12.000 TL
+Adapazarı - Güneşler Merkez Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,16.000 TL
+Sapanca - Kırkpınar Hasanpaşa Mahallesi,Daire | 3+1 | 1. Kat | 240 m²,25.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,10.000 TL
+Pamukova - Elperek Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,13.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Serdivan - Yazlık Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,25.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 120 m²,19.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | Yüksek giriş | 75 m²,12.500 TL
+Karasu - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,14.500 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,17.500 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,15.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 3+1 | 2. Kat | 160 m²,32.000 TL
+Serdivan - Vatan Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,34.000 TL
+Adapazarı - Yenigün Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,13.000 TL
+Arifiye - Neviye Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,18.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 135 m²,16.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,18.000 TL
+Söğütlü - Cami Cedit Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,12.500 TL
+Akyazı - Yunus Emre Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,10.000 TL
+Erenler - Dilmen Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,14.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,18.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,17.000 TL
+Hendek - Başpınar Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,17.500 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,20.000 TL22.000 TL
+Karasu - Yalı Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,14.500 TL
+Akyazı - Ömercikler Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 130 m²,15.000 TL
+Serdivan - Yazlık Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,25.000 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,30.000 TL
+Sapanca - Göl Mahallesi,Daire | 3+1 | 3. Kat | 150 m²,42.000 TL
+Adapazarı - Yeni Cami Mahallesi,Daire | 2+1 | 2. Kat | 130 m²,15.000 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 135 m²,30.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 1. Kat | 85 m²,24.000 TL
+Adapazarı - Kurtuluş Mahallesi,Daire | 3+1 | 1. Kat | 150 m²,20.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | 3. Kat | 40 m²,17.000 TL
+Adapazarı - Yahyalar Mahallesi,Daire | 2+1 | Kot 2 (-2). Kat | 100 m²,15.000 TL
+Adapazarı - Yenidoğan Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,18.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,20.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | Kot 3 (-3). Kat | 85 m²,13.500 TL14.500 TL
+Serdivan - Bahçelievler Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,20.000 TL
+Arifiye - Aşağı Kirazca Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,13.000 TL
+Hendek - Başpınar Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,16.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 2+1 | 2. Kat | 60 m²,23.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 60 m²,24.000 TL
+Söğütlü - Cami Cedit Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,8.000 TL
+Erenler - Bağlar Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,15.000 TL
+Arifiye - Aşağı Kirazca Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,20.000 TL
+Karasu - Aziziye Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,15.000 TL
+Adapazarı - Maltepe Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,11.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,19.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,17.500 TL
+Adapazarı - Şeker Mahallesi,Daire | 3+1 | 1. Kat | 125 m²,17.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | 1. Kat | 50 m²,17.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 3+1 | 4. Kat | 110 m²,15.500 TL
+Akyazı - Hastahane Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 49 m²,7.000 TL
+Akyazı - Konuralp Mahallesi,Daire | 3+1 | Bahçe katı | 120 m²,18.000 TL
+Akyazı - Ömercikler Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,15.000 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 1 Oda | 2. Kat | 45 m²,10.000 TL
+Sapanca - Gazipaşa Mahallesi,Daire | 3+1 | 3. Kat | 152 m²,21.000 TL
+Sapanca - Gazipaşa Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,28.000 TL
+Adapazarı - Yenigün Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,17.500 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 114 m²,15.500 TL
+Adapazarı - Papuççular Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,18.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,17.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 2+1 | Bahçe katı | 150 m²,32.000 TL
+Adapazarı - Çukurahmediye Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,13.500 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,32.500 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,19.000 TL21.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,15.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 1. Kat | 56 m²,8.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 5. Kat | 78 m²,15.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,6.000 TL
+Söğütlü - Cami Cedit Mahallesi,Daire | 2+1 | 1. Kat | 50 m²,10.000 TL
+Sapanca - Camicedit Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,25.000 TL
+Geyve - Orhaniye Mahallesi,Daire | 3+1 | 3. Kat | 200 m²,18.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,25.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | Bahçe katı | 77 m²,18.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,20.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | 3. Kat | 60 m²,17.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,18.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 4+1 | 2. Kat | 190 m²,40.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 1+1 | Kot 2 (-2). Kat | 45 m²,17.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 1+1 | 2. Kat | 45 m²,17.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,20.000 TL
+Ferizli - İstiklal Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,20.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,10.500 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,14.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 65 m²,16.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 60 m²,13.500 TL
+Serdivan - İstiklal Mahallesi,Daire | 2+1 | Müstakil | 100 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 4+1 | 1. Kat | 145 m²,20.000 TL
+Adapazarı - Tekeler Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 135 m²,33.000 TL
+Kocaali - Caferiye Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,15.000 TL
+Akyazı - Ömercikler Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 65 m²,9.000 TL
+Adapazarı - İstiklal Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,14.000 TL15.000 TL
+Erenler - Erenler Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,28.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,20.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,13.000 TL
+Kocaali - Merkez Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,15.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 3+1 | 3. Kat | 160 m²,38.000 TL
+Akyazı - Konuralp Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,20.000 TL
+Akyazı - İnönü Mahallesi,Daire | 1+1 | 1. Kat | 55 m²,11.000 TL
+Akyazı - İnönü Mahallesi,Daire | 2+1 | 3. Kat | 160 m²,15.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 3+1 | 2. Kat | 165 m²,39.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 3+1 | 2. Kat | 105 m²,22.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 65 m²,25.000 TL
+Adapazarı - Şirinevler Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,14.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,17.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | Bahçe katı | 75 m²,15.000 TL
+Hendek - Kemaliye Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,25.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 55 m²,18.000 TL
+Erenler - Erenler Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,25.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,14.000 TL15.000 TL
+Erenler - Tabakhane Mahallesi,Daire | 3+1 | Bahçe dublex | 180 m²,30.000 TL
+Adapazarı - Yenigün Mahallesi,Daire | 3+1 | 1. Kat | 130 m²,25.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,12.000 TL14.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 60 m²,19.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,16.000 TL
+Hendek - Başpınar Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,15.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 1+1 | 2. Kat | 46 m²,19.000 TL
+Adapazarı - Yahyalar Mahallesi,Daire | 1+1 | 2. Kat | 75 m²,17.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,20.000 TL
+Erenler - Erenler Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,13.500 TL
+Hendek - Dereboğazı Mahallesi,Daire | 3+1 | 1. Kat | 125 m²,22.000 TL
+Hendek - Mahmutbey Mahallesi,Daire | 1+1 | Yüksek giriş | 60 m²,8.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | Yüksek giriş | 75 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 1+1 | 3. Kat | 80 m²,13.000 TL
+Hendek - Süleymaniye Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,10.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,17.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 180 m²,25.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+0 | 1. Kat | 125 m²,20.005 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | Bahçe katı | 65 m²,20.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,18.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 4+1 | 3. Kat | 200 m²,50.000 TL
+Akyazı - Kuzuluk Ortamahalle Mahallesi,Daire | 1+1 | 3. Kat | 71 m²,23.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,20.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,18.000 TL
+Adapazarı - Kurtuluş Mahallesi,Daire | 3+1 | 1. Kat | 200 m²,25.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 65 m²,6.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 65 m²,7.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 65 m²,8.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Kot 3 (-3). Kat | 65 m²,6.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 57 m²,6.500 TL
+Adapazarı - Orta Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,19.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Çatı katı | 65 m²,14.000 TL
+Adapazarı - Tepekum Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,16.750 TL
+Adapazarı - Çukurahmediye Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,23.000 TL
+Adapazarı - Tekeler Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,26.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 145 m²,14.500 TL
+Karasu - Yeni Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,16.000 TL
+Karasu - Aziziye Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,10.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 4. Kat | 120 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 70 m²,15.500 TL
+Hendek - Yeni Mahallesi,Daire | 4+1 | 4. Kat | 170 m²,23.500 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 4. Kat | 130 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 4+1 | 4. Kat | 165 m²,20.000 TL
+Hendek - Kemaliye Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,14.000 TL
+Hendek - Rasimpaşa Mahallesi,Daire | 2+1 | 2. Kat | 115 m²,20.000 TL
+Hendek - Kemaliye Mahallesi,Daire | 4+0 | 2. Kat | 180 m²,30.000 TL
+Hendek - Başpınar Mahallesi,Daire | 2+1 | 4. Kat | 100 m²,18.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,16.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,22.000 TL
+Akyazı - Gazi Süleyman Paşa Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,15.000 TL
+Adapazarı - Ozanlar Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,20.000 TL
+Adapazarı - Papuççular Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,14.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 1. Kat | 120 m²,27.000 TL
+Adapazarı - Yahyalar Mahallesi,Daire | 4+1 | 2. Kat | 150 m²,30.000 TL
+Karasu - İncilli Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,15.000 TL
+Adapazarı - Tuzla Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,28.000 TL
+Akyazı - Konuralp Mahallesi,Daire | 2+1 | 3. Kat | 155 m²,9.000 TL
+Akyazı - İnönü Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,10.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,17.500 TL
+Arifiye - Fatih Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,20.000 TL
+Arifiye - Neviye Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,16.000 TL
+Karasu - Kabakoz Mahallesi,Daire | 2+0 | 2. Kat | 60 m²,14.000 TL
+Adapazarı - Hızırtepe Mahallesi,Daire | 5+1 | 4. Kat | 170 m²,20.000 TL
+Erenler - Tabakhane Mahallesi,Daire | 2+1 | 3. Kat | 130 m²,15.000 TL
+Ferizli - Devlet Mahallesi,Daire | 2+1 | 4. Kat | 80 m²,18.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,13.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | 2. Kat | 200 m²,36.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,25.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 60 m²,16.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Çatı katı | 45 m²,12.000 TL
+Hendek - Başpınar Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,13.000 TL
+Karasu - Yalı Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,14.500 TL
+Akyazı - Kuzuluk Ortamahalle Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,12.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,15.000 TL16.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 4.5+1 | 3. Kat | 160 m²,40.000 TL
+Karasu - Yalı Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,17.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,19.000 TL
+Adapazarı - Yenidoğan Mahallesi,Daire | 2+1 | 3. Kat | 80 m²,22.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,13.500 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 4. Kat | 119 m²,15.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 85 m²,22.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,20.500 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 2. Kat | 170 m²,34.000 TL
+Hendek - Yeni Mahallesi,Daire | 6+1 | Villa tipi | 280 m²,38.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 4. Kat | 125 m²,14.000 TL
+Adapazarı - Güneşler Merkez Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,22.500 TL
+Akyazı - Yunus Emre Mahallesi,Daire | 3+1 | 4. Kat | 140 m²,13.500 TL
+Akyazı - İnönü Mahallesi,Daire | 1+1 | 2. Kat | 55 m²,10.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,15.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 1. Kat | 105 m²,25.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 3+1 | Yüksek giriş | 135 m²,25.000 TL
+Serdivan - Yazlık Mahallesi,Daire | 3+1 | 2. Kat | 133 m²,35.000 TL
+Adapazarı - Tuzla Mahallesi,Daire | 3+1 | 1. Kat | 120 m²,18.500 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | Kot 1 (-1). Kat | 130 m²,19.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,16.010 TL
+Adapazarı - Yenidoğan Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,15.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 2. Kat | 136 m²,25.000 TL
+Adapazarı - Tepekum Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,25.000 TL
+Adapazarı - Maltepe Mahallesi,Daire | 1+1 | 3. Kat | 90 m²,10.000 TL
+Erenler - Dilmen Mahallesi,Daire | 1+1 | 1. Kat | 70 m²,10.000 TL
+Arifiye - Fatih Mahallesi,Daire | 2+1 | Yüksek giriş | 100 m²,18.000 TL
+Hendek - Yeni Mahallesi,Daire | 4+1 | 1. Kat | 210 m²,26.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,17.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 90 m²,20.000 TL
+Adapazarı - Orta Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,15.000 TL
+Adapazarı - Ozanlar Mahallesi,Daire | 3+1 | 3. Kat | 120 m²,20.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 2+1 | Kot 1 (-1). Kat | 110 m²,13.000 TL
+Hendek - Yeni Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,16.500 TL
+Hendek - Yeni Mahallesi,Daire | 5+1 | 3. Kat | 195 m²,25.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,20.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 120 m²,30.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 1. Kat | 55 m²,18.500 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,20.000 TL
+Hendek - Kemaliye Mahallesi,Daire | 3+1 | Bahçe katı | 140 m²,16.000 TL18.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Bahçe katı | 60 m²,18.000 TL
+Hendek - Köprübaşı Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,15.004 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,12.999 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | Düz Giriş (Zemin) | 120 m²,30.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 1. Kat | 55 m²,18.500 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 3+1 | 4. Kat | 130 m²,20.000 TL
+Hendek - Kemaliye Mahallesi,Daire | 3+1 | Bahçe katı | 140 m²,16.000 TL18.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Bahçe katı | 60 m²,18.000 TL
+Hendek - Köprübaşı Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,15.004 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 70 m²,12.999 TL
+Hendek - Rasimpaşa Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,20.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 125 m²,16.000 TL
+Hendek - Akova Mahallesi,Daire | 4+1 | 4. Kat | 175 m²,20.002 TL
+Hendek - Köprübaşı Mahallesi,Daire | 2+1 | 3. Kat | 115 m²,17.500 TL
+Sapanca - Gazipaşa Mahallesi,Daire | 2+1 | 3. Kat | 120 m²,20.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 65 m²,17.000 TL
+Arifiye - Fatih Mahallesi,Daire | 2+1 | 2. Kat | 98 m²,20.000 TL
+Adapazarı - Tepekum Mahallesi,Daire | 4+1 | 2. Kat | 160 m²,20.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,14.500 TL
+Serdivan - Beşköprü Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 80 m²,14.000 TL
+Karasu - Yalı Mahallesi,Daire | 1+1 | Bahçe katı | 65 m²,16.500 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,23.500 TL
+Akyazı - Yeni Mahallesi,Daire | 2+1 | 2. Kat | 100 m²,15.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 90 m²,20.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | Çatı katı | 50 m²,13.150 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,17.000 TL
+Hendek - Yeni Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,15.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,15.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,20.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 1+1 | Bahçe katı | 77 m²,13.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | Yüksek giriş | 135 m²,20.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | 2. Kat | 118 m²,18.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,18.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 1+1 | 1. Kat | 75 m²,18.000 TL
+Söğütlü - Cami Cedit Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,9.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 2+1 | 4. Kat | 90 m²,15.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,12.500 TL
+Hendek - Kemaliye Mahallesi,Daire | 1+1 | 3. Kat | 70 m²,14.500 TL
+Erenler - Bağlar Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,25.000 TL
+Adapazarı - Karaman Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,17.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 3. Kat | 75 m²,9.000 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,17.000 TL
+Karasu - İncilli Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,12.000 TL
+Adapazarı - Şirinevler Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,16.000 TL
+Karasu - Aziziye Mahallesi,Daire | 1+1 | Bahçe katı | 60 m²,10.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | 2. Kat | 95 m²,18.000 TL
+Kocaali - Caferiye Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,15.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 2+1 | 3. Kat | 110 m²,25.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,20.000 TL
+Serdivan - Esentepe Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,15.000 TL
+Adapazarı - Maltepe Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 130 m²,16.000 TL
+Adapazarı - Orta Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,25.000 TL
+Akyazı - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 120 m²,13.000 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,10.850 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,13.000 TL
+Serdivan - Bahçelievler Mahallesi,Daire | 3+1 | 1. Kat | 135 m²,16.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 4. Kat | 135 m²,28.000 TL
+Karasu - Yalı Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,13.000 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,8.000 TL
+Akyazı - İnönü Mahallesi,Daire | 1+1 | 3. Kat | 52 m²,8.000 TL
+Sapanca - Göl Mahallesi,Daire | 1+1 | 3. Kat | 60 m²,18.000 TL
+Erenler - Erenler Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,20.000 TL
+Serdivan - Bahçelievler Mahallesi,Daire | 2+1 | 3. Kat | 105 m²,18.000 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,12.000 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,18.000 TL
+Ferizli - İnönü Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,15.000 TL
+Adapazarı - Şeker Mahallesi,Daire | 2+1 | 2. Kat | 130 m²,25.000 TL
+Adapazarı - Göktepe Mahallesi,Daire | 4+1 | Bahçe dublex | 190 m²,20.000 TL
+Adapazarı - Tekeler Mahallesi,Daire | 2+1 | 5. Kat | 110 m²,9.000 TL10.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 1. Kat | 130 m²,30.000 TL50.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,13.000 TL
+Adapazarı - Tuzla Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,17.000 TL
+Serdivan - Otuziki Evler Mahallesi,Daire | 3+1 | 3. Kat | 130 m²,35.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,13.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,14.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 2. Kat | 60 m²,10.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 90 m²,21.000 TL
+Adapazarı - Tığcılar Mahallesi,Daire | 2+1 | 4. Kat | 130 m²,16.000 TL
+Adapazarı - Akıncılar Mahallesi,Daire | Stüdyo | Çatı katı | 90 m²,16.250 TL
+Serdivan - Beşköprü Mahallesi,Daire | 2+1 | 2. Kat | 105 m²,35.000 TL
+Akyazı - Ömercikler Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,12.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,15.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,20.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 2. Kat | 110 m²,14.000 TL
+Karasu - Yeni Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,13.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,20.000 TL
+Adapazarı - Tekeler Mahallesi,Daire | 3+1 | 2. Kat | 120 m²,25.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,18.000 TL
+Akyazı - Ömercikler Mahallesi,Daire | 3+0 | Düz Giriş (Zemin) | 125 m²,13.000 TL
+Akyazı - Ömercikler Mahallesi,Daire | 3+1 | 3. Kat | 135 m²,15.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | Yüksek giriş | 80 m²,18.500 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | Kot 2 (-2). Kat | 100 m²,60.000 TL
+Adapazarı - Yağcılar Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,20.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 3+1 | Yüksek giriş | 135 m²,21.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,13.000 TL
+Karasu - Kabakoz Mahallesi,Daire | 3+1 | 3. Kat | 140 m²,12.000 TL
+Adapazarı - Tekeler Mahallesi,Daire | 3+1 | Çatı Dubleks | 160 m²,25.000 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 52 m²,8.000 TL
+Serdivan - Yazlık Mahallesi,Daire | 3+1 | Kot 1 (-1). Kat | 125 m²,20.000 TL
+Erenler - Dilmen Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,18.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 3. Kat | 27 m²,10.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 1. Kat | 27 m²,9.500 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,22.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 3. Kat | 90 m²,12.500 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 1. Kat | 45 m²,9.000 TL
+Akyazı - İnönü Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,8.500 TL
+Serdivan - Arabacıalanı Mahallesi,Daire | 2+1 | 2. Kat | 55 m²,17.500 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | 2. Kat | 50 m²,11.000 TL
+Pamukova - Elperek Mahallesi,Daire | 3+1 | 2. Kat | 147 m²,13.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,14.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 100 m²,18.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,12.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,15.000 TL
+Hendek - Yeni Mahallesi,Daire | 3+1 | 2. Kat | 150 m²,19.500 TL
+Adapazarı - Yeni Cami Mahallesi,Daire | 2+1 | Kot 3 (-3). Kat | 95 m²,12.500.000 TL
+Akyazı - Hastahane Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 50 m²,10.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 1+1 | 3. Kat | 65 m²,10.000 TL
+Adapazarı - Kurtuluş Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,15.000 TL
+Karasu - Kabakoz Mahallesi,Daire | 2+1 | 1. Kat | 95 m²,11.000 TL
+Erenler - Dilmen Mahallesi,Daire | 2+1 | 2. Kat | 65 m²,18.000 TL
+Adapazarı - Orta Mahallesi,Daire | 2+1 | 1. Kat | 105 m²,16.000 TL
+Erenler - Küpçüler Mahallesi,Daire | 3+1 | 2. Kat | 130 m²,20.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 1+1 | 1. Kat | 65 m²,17.500 TL
+Adapazarı - Tığcılar Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,6.000 TL
+Akyazı - Yeni Mahallesi,Daire | 1+1 | Kot 1 (-1). Kat | 52 m²,7.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 1. Kat | 20 m²,3.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,8.000 TL
+Serdivan - Bahçelievler Mahallesi,Daire | 2+1 | Düz Giriş (Zemin) | 50 m²,16.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | 2. Kat | 90 m²,14.000 TL
+Geyve - Orhaniye Mahallesi,Daire | 2+1 | Yüksek giriş | 110 m²,16.500 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,4.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 1. Kat | 20 m²,8.000 TL
+Akyazı - Ömercikler Mahallesi,Daire | 2+0 | 2. Kat | 75 m²,12.000 TL
+Hendek - Beyköy Mahallesi,Daire | 2+1 | 1. Kat | 110 m²,10.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 2+1 | Yüksek giriş | 90 m²,20.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 1. Kat | 20 m²,8.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,5.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 1. Kat | 20 m²,5.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 1. Kat | 20 m²,4.500 TL
+Adapazarı - Tığcılar Mahallesi,Daire | Stüdyo | 1. Kat | 20 m²,6.000 TL
+Akyazı - Hastahane Mahallesi,Daire | 1+1 | 3. Kat | 55 m²,8.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 4+1 | Bahçe katı | 280 m²,42.500 TL
+Adapazarı - Alandüzü Mahallesi,Daire | 2+1 | 1. Kat | 100 m²,12.000 TL
+Serdivan - Beşköprü Mahallesi,Daire | 4+1 | 2. Kat | 190 m²,45.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,4.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,2.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,5.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,4.500 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,6.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,2.500 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,5.000 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,4.500 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,3.500 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,6.000 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,4.500 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,3.500 TL
+Serdivan - Bahçelievler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,2.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,5.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,4.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,4.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,5.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,2.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,5.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,4.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.500 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,5.000 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,3.500 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | Stüdyo | 2. Kat | 20 m²,4.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 1. Kat | 25 m²,2.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 3. Kat | 25 m²,3.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 3. Kat | 25 m²,2.500 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,3.000 TL
+Adapazarı - Orta Mahallesi,Daire | Stüdyo | 2. Kat | 30 m²,6.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,5.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | Stüdyo | 3. Kat | 30 m²,5.500 TL
+Akyazı - Ömercikler Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,12.000 TL
+Kocaali - Alandere Mahallesi,Daire | 3+2 | Yüksek giriş | 200 m²,7.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 75 m²,10.000 TL
+Karasu - Yalı Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,3.000 TL
+Adapazarı - Korucuk Mahallesi,Daire | 3+1 | 2. Kat | 110 m²,15.000 TL
+Adapazarı - Göktepe Mahallesi,Daire | 3+1 | Kot 2 (-2). Kat | 150 m²,15.000 TL
+Arifiye - Arifbey Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 55 m²,8.000 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | 2+1 | 2. Kat | 80 m²,13.900 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,5.000 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,3.500 TL
+Adapazarı - Semerciler Mahallesi,Daire | 1 Oda | 2. Kat | 35 m²,4.500 TL
+Adapazarı - Karaman Mahallesi,Daire | 3+1 | 1. Kat | 110 m²,15.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 75 m²,18.000 TL
+Adapazarı - Hızırtepe Mahallesi,Daire | 2+1 | Bahçe katı | 100 m²,15.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 3+1 | 2. Kat | 85 m²,25.000 TL
+Adapazarı - Tekeler Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,15.000 TL
+Adapazarı - Yenidoğan Mahallesi,Daire | 2+1 | Kot 3 (-3). Kat | 110 m²,17.000 TL
+Adapazarı - Cumhuriyet Mahallesi,Daire | 2+1 | 1. Kat | 65 m²,21.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 3. Kat | 70 m²,17.500 TL
+Adapazarı - Yenidoğan Mahallesi,Daire | 1+1 | 3. Kat | 50 m²,18.000 TL
+Arifiye - Fatih Mahallesi,Daire | 3+1 | 2. Kat | 135 m²,22.000 TL
+Karasu - Kabakoz Mahallesi,Daire | 2+1 | 2. Kat | 85 m²,15.000 TL
+Sapanca - Yeni Mahallesi,Daire | 3+1 | Çatı katı | 165 m²,34.000 TL
+Karasu - Aziziye Mahallesi,Daire | 1+1 | Yüksek giriş | 55 m²,16.000 TL
+Hendek - Akova Mahallesi,Daire | 3+1 | 3. Kat | 125 m²,14.000 TL
+Serdivan - İstiklal Mahallesi,Daire | 3+1 | 5. Kat | 140 m²,18.500 TL
+Adapazarı - Mithatpaşa Mahallesi,Daire | 1+1 | Yüksek giriş | 45 m²,20.000 TL
+Akyazı - Hastahane Mahallesi,Daire | 1+1 | Düz Giriş (Zemin) | 45 m²,8.000 TL
+Adapazarı - 15 Temmuz Camili Mahallesi,Daire | 2+1 | 3. Kat | 95 m²,13.000 TL
+Adapazarı - Orta Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,18.000 TL
+Karasu - Aziziye Mahallesi,Daire | 2+1 | 3. Kat | 85 m²,20.000 TL
+Erenler - Bağlar Mahallesi,Daire | 2+1 | 1. Kat | 90 m²,18.000 TL
+Serdivan - Bahçelievler Mahallesi,Daire | 2+1 | 2. Kat | 55 m²,18.000 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 3+1 | 2. Kat | 140 m²,35.000 TL
+Hendek - Köprübaşı Mahallesi,Daire | 2+1 | Yüksek giriş | 95 m²,15.000 TL
+Akyazı - Gazi Süleyman Paşa Mahallesi,Daire | 3+1 | 2. Kat | 132 m²,17.750 TL
+Serdivan - Kemalpaşa Mahallesi,Daire | 2+1 | 1. Kat | 80 m²,18.500 TL
+Serdivan - İstiklal Mahallesi,Daire | 1+1 | 2. Kat | 65 m²,14.000 TL

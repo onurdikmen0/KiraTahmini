@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# Büyük üretilmiş (regenerate edilebilir) veri — ~144 MB, git'e koyma
+data/processed/temiz_turkey_rent.csv
+
+# OS / editör
+.DS_Store
+.vscode/

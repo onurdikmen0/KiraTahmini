@@ -9,6 +9,7 @@ p6 : 40 dk
 p7 : 38 dk
 p8 : 37 dk
 p9 : 39 dk 
+6 saat 10 dk
 
 Şuanki veriseti Türkiye geneli kiralık daireleri içeriyor.
 Emlakjetden kiralık konut Daire haricindeki diğer kategoriler için de veri çekilsin.
@@ -57,3 +58,7 @@ fiyat_oda_orani
 3. versiyon 
     R² Score: 0.9976809024810791
     RMSE: 388.3306419792288
+
+--------------------------------------
+Lat (Latitude – Enlem):
+Lon (Longitude – Boylam):
